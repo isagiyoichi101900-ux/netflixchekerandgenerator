@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: CL
 – Payments: 1 | CC (MASTERCARD 0344)
-– Cookies: Cloud WebSite russia34.com
+– Cookies: russia34link.com
 
 .netflix.com	TRUE	/	FALSE	1791043298	nfvdid	BQFmAAEBEGUbP4AOj1dTxsjvc-7kKS1gzY3slPdzsOMfR1L2tRD4ubMjMiTJOo-l2olvzOBTCPlbxcoMalBpQuXMTj6tbfFmQG05xfm4QrpFR_7GErOPrs_Lm73pWGAMR4Kk30Ii_p2owS5iOP1oXwyjI2oQ2B7U
 .netflix.com	TRUE	/	TRUE	1791043304	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTK9OjlH3g8cku1eKRs__RabY_-6ZB8sA8.%26dt%3D1759507304182

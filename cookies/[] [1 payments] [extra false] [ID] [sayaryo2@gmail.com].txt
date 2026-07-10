@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: ID
 – Payments: 1 | CC (MASTERCARD 9504)
-– Cookies: russia34link.com
+– Cookies: @logslead
 
 .netflix.com	TRUE	/	FALSE	1784853247	flwssn	33f011b7-27b4-47d0-9f0c-5b26e0f2e108
 .netflix.com	TRUE	/	FALSE	1805719363	nfvdid	BQFmAAEBEH-cx9M6qxPLSzYKDTNCxDxgzgGK729cmfNXpa4haW7f3Iu1rX0KovpsHGjuOnnKyxQMAF8qQdLbUanHQjg1RyNhxXPG-59swjk5c-h5qjpvRyr5xDcFqfQPC9enrtfjbFkumMdIpqy2RVBeZS4vRW-M

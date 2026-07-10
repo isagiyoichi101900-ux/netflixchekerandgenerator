@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: IN
 – Payments: 0
-– Cookies: russia34.com
+– Cookies: Cloud WebSite russia34.com
 
 .netflix.com	TRUE	/	TRUE	1808128908	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTTXy7ygwCErJUCfqVE1MhdYxExTC2PKUE.%26dt%3D1776592904601
 .netflix.com	TRUE	/	FALSE	1784368885	netflix-sans-bold-3-loaded	true

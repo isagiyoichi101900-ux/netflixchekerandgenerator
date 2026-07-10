@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: CO
 – Payments: 0
-– Cookies: @logslead
+– Cookies: Cloud WebSite russia34.com
 
 .netflix.com	TRUE	/	TRUE	1800551946	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSVDBvE2UaRR2xqc8IF5AD1fd0S0HYvH2k.%26dt%3D1769015920511
 .netflix.com	TRUE	/	FALSE	1800551946	nfvdid	BQFmAAEBEDOPcv1_2x76XsZounvKwEpgY_oeJGkv5sqqxqSHgJql_ytoC7kgL9DRCJipo1Gcruyc2uHMJvPgylVtl8iQ-GxpwZLKgqGtk7YJc-nG4qOAASlSDGGI_llJ6FuIngju9PtSa2rLrweZr01Kd9xdj9Tj

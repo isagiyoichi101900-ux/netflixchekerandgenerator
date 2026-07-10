@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: IT
 – Payments: 1 | CC (VISA 3538)
-– Cookies: Admin @logslead
+– Cookies: russia34.com
 
 .netflix.com	TRUE	/	FALSE	1806004881	OptanonAlertBoxClosed	2026-03-25T20:01:21.186Z
 .netflix.com	TRUE	/	FALSE	1806004940	nfvdid	BQFmAAEBEHrwjqhKTy-Xbfqq7I3ZEzFgAuIoMSnv5_4gH7DFkvgO2RpiHxD3bdyqx4sBv6-PPowkOj1TM4-Pugp2cMmXAYcqDPb0-pfMdGA9cMoyMgUzOn6WWsQAoP-PJTmDGyZaRc47K9ToacynpnZl63Lhg4n_

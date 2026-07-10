@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: FR
 – Payments: 1 | CC (MASTERCARD 0384)
-– Cookies: @logslead
+– Cookies: russia34.com
 
 .netflix.com	TRUE	/	TRUE	1809649541	dsca	true
 .netflix.com	TRUE	/	TRUE	1807455527	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTCy6VHNULuKgUq3lr1qe8ihvIo0q747Q8.%26dt%3D1775919525054

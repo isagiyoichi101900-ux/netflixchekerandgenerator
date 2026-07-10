@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: IN
 – Payments: 0
-– Cookies: @logslead
+– Cookies: russia34.com
 
 .netflix.com	TRUE	/	FALSE	1787727266	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1787727266	netflix-sans-normal-3-loaded	true

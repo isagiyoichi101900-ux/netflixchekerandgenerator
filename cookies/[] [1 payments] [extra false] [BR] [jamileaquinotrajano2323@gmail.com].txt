@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: jamileaquinotrajano2323@gmail.com
+– Verified: false
+– Profile: Gerson
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 9610)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1805583383	OptanonAlertBoxClosed	2026-03-20T22:56:23.676Z
+.netflix.com	TRUE	/	FALSE	1805583386	nfvdid	BQFmAAEBEG12fkRoH01KjWvxg5SwHPNgxezhzPRihFJTwLJldzxcwa5hW9Z_gEF4ifM4x6PS0l_s7WhAdRzGcyvR646knXDNPcYr6cO44Zm1KD7QXWva17GRCj5ypoSciQYV7a2QXLkLnJ14670Z_MLuLmpHMkRQ
+.netflix.com	TRUE	/	TRUE	1812805663	NetflixId	ct%3DBgjHlOvcAxKEBDx6-7pqC_i4vCNzQxpavlE1EmsQUQ-4frh7yMx0SL8edJvQPYYQU5Oiq2AZtkmMsiYeuqTIHRnReWinSXMcIprR0Juz_O8p1hnuSwpTmjEODDzUWKXbFfH_OeKKNMiNUo0ZKsvvSGki_u6l5ZFDqQmmUc2gMciU8YBKnsGSGoYeX1rUPbD7mN4JfM_tfLJsAWdA32PGN_YC--fjvbPNKs6_OPy5kw2pciYrBmNAjUc2e9H5yWMkNKQ18tpYv1rRABDVwpN8Psz28hvxkk1e-kTSM3rZSTU7XftRZM63BXBEqOxuMBqcpuONfC0l02DI7zOwcCJKVsJDH6WiLZE4XJxHRSW-rPpWE3oRkMh7_rKynb5y2K6tBdyPh1ZfW8Z7qvJK2Y0ZXbXd2WJfXd1Nq5OdCTjgc3uM1XkTmJLg52ncT5DVnTxKE9sBVv0XfkvJeek3WhBiky93o_mVyXGX4dU1TQxqsStoWCRpfnwHnGW-L5WthOVVOvYDZ2CZMvWJXG7Yv4Fala_SPvva355IlTK2U-0qjbkMLNjLlQUKTn-x1DmDJsAAZrwrMXXz-paNGNsLYVXhkuReT9vaUqhGph7uB8Z-dQyQoV33uHoz5m4E8IvmPWR1oKwsS6c1drgpNkgq6MN1aECH7i7Xk8eOTSPA7uIdeg9XPJLnhVzo1WUMQLKKyRgGIg4KDJXBfoN6Kggx3OYIvw..%26ch%3DAQEAEAABABT59fyhYOxvlpQNolHekc3VGjFWBhPaNuE.%26v%3D3%26pg%3DSVBVNFQNPNCFPHW6NJRSFIX6WM
+.netflix.com	TRUE	/	FALSE	1812805663	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+12+2026+10%3A07%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dbbca259-fb1a-441e-b840-388aea8841a4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1774047379783&geolocation=BR%3BES&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812805663	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxe9O417GpegXY5iWUkENFa2BYET6ZKoA.%26dt%3D1781269663942
+.netflix.com	TRUE	/	FALSE	1789045662	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789045662	netflix-sans-bold-3-loaded	true

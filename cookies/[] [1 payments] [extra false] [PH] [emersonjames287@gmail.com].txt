@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: PH
 – Payments: 1 | MOBILE_WALLET (GCASH 63-9****94009)
-– Cookies: @logslead
+– Cookies: Cloud WebSite russia34.com
 
 .netflix.com	TRUE	/	FALSE	1790529809	nfvdid	BQFmAAEBEOkr9BLC3yatB1HqiFv2Q6Fgq30b93N8oY7Hdvz6A9bbdl_iaP3vAIheTHLJy8wGprxecGYM0HKNFo7a2Oe_cGzKct4DEluhoxj1VjyBNhxbNpIdCeWYntwoCD1dXj3hlLoWYe1FdZJ1iIxVBzF3kAGO
 .netflix.com	TRUE	/	TRUE	1794811870	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQi61-RG27cPpgncN31UFtr2pgSuiFvDkM.%26dt%3D1779259870449

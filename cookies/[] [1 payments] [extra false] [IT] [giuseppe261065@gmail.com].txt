@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: IT
 – Payments: 1 | MOBILE_WALLET (SATISPAY Sa***spay)
-– Cookies: Cloud WebSite russia34.com
+– Cookies: russia34.com
 
 .netflix.com	TRUE	/	FALSE	1796994625	OptanonAlertBoxClosed	2025-12-11T13:10:25.094Z
 .netflix.com	TRUE	/	FALSE	1796994722	nfvdid	BQFmAAEBECDIqUGXAvmmMgYjbT-8DRxgXoAgPM0LssKBlSuslFf1vGu4uBNh8R3flNIslj7Hr4ZLIQoD6zh38QPHqC1RW9JvjF1YSuVjpa6jB9QteaqG32CsrR13SorPQeVPBCpaax6jWi3SK62eAdyohi6Kqh3F

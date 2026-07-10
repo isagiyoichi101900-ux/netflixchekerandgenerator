@@ -1,0 +1,19 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: dheaaliyya03@gmail.com
+– Verified: false
+– Profile: affan
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (DANA 62-813****8998)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1803111195	nfvdid	BQFmAAEBECJqXzg1BDZaBS5I136sv0VgP3p7zSK-ECRk3OwipTDaoFZ8suEM4IMayHM9WxR2w461rfpCMc-ePS9OPkgfMFUeEE3ohoiFZDK7qosswrnLfdbP9R3Z3MXqOfbkK-dyh8nBjo7InwJMdMhK0o04G-Iz
+.netflix.com	TRUE	/	FALSE	1803832849	NetflixId	ct%3DBgjHlOvcAxKSA1wocPwJoFRcLPhzXiCnkIdEHXHJlS6Y6bkw_kaMvHqd6tAshSU8qASNS1WjSi82XuTD1QlJ9h2o7ijbBIsH_TpycPRd6dTu-HWNG1uwh7OFkag3xizXXpXr-P5Pmy6GdwkdSDy9eKTX17hcq2B4spoGLRUvr4lGUyV6hM_PeKXnmxDiPZcIepQZkQj9hJsKBuYSUrXBatB-bKDUUYHIAxAwWb23r80j-il2GmI_oT8lCxkYexwR_ExHep0XiHXZ_SN3nWqpwadwTcrlYOhLm4v5Cwsw8l8R0ntbPQE8FQX190Cr345VUfY8KcdCxG-7i4RD9d_JKXGhWK6YodAIZRePuyYFsfiHPZhxyGysMLfbV8FoN3ptGPyqUxf8Zncf-AZhJeKQZmxPeaQs632XZe513RFh892J4ma1A573yU_I-BgFa6UD5CTFmgu4WqLWkltqFpJ7GZJaCdwXTWquk1w0IX8aii8mc1OrCh2CuEgA60z59swR_Te73eYz8oZQsx60YPHjiEmFEy-cBcHRrffvjBgGIg4KDN_4MQgAKWATUjzDWA..%26ch%3DAQEAEAABABTASOki1Rfc6Aj7qAFdZDS4pY3gSxkTPUQ.%26v%3D3%26pg%3DTNMZCGBQKZG2TNADDPML7PCYAQ
+.netflix.com	TRUE	/	FALSE	1803832850	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+28+2026+23%3A40%3A50+GMT%2B0700+(Western+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5c147bee-d105-47b7-8d7f-e75c929fe18a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771575007795&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1803832849	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR1XnMExuw1tgcTlHVRbruNJvr4a-5acts.%26dt%3D1772296850037
+.netflix.com	TRUE	/	FALSE	1785603407	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785603407	netflix-sans-normal-3-loaded	true

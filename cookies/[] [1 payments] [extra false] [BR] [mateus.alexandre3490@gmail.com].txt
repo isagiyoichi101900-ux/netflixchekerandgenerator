@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: BR
 – Payments: 1 | CC (VISA 4620)
-– Cookies: russia34.com
+– Cookies: russia34link.com
 
 .netflix.com	TRUE	/	FALSE	1809648359	OptanonAlertBoxClosed	2026-05-07T00:05:59.837Z
 .netflix.com	TRUE	/	FALSE	1809648375	nfvdid	BQFmAAEBEIch7OIdidkHKE1Iu57VZshgweTWO8N_DiQgeavdSi0pjNRGa1HNJAlDi0ZNQF8Cg2O_uyM-zHywa6Q9ooz6wrp-pLgyPCrStvANObrD8b5nzhrtx2ayoqM8a2dNDnXQyrUE_vQt4IT-rWzGOrP_LueW

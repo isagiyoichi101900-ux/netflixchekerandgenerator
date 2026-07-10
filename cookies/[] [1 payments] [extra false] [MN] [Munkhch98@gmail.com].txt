@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: MN
 – Payments: 1 | CC (VISA 8170)
-– Cookies: russia34link.com
+– Cookies: @logslead
 
 .netflix.com	TRUE	/	FALSE	1794388765	nfvdid	BQFmAAEBEFVH6ejmdfL1BI6iqALdT5hg6-4I1X1mBuH6-QXRVPy3wh2QDr2dg6N_8qcCd34N6cMNgY-hE8_fxEtJArAS1rTM4dlIykVR4LwaDXXi_KfEFXnpKB75haQQwso4A6uUaE1kc_uXgk18ySS35cGv06X6
 .netflix.com	TRUE	/	TRUE	1799378467	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-k-UbCXxTTIZV3LIejXUH7YrwSyrBgMs.%26dt%3D1767842468235

@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: MX
 – Payments: 1 | CC (MASTERCARD 6128)
-– Cookies: Admin @logslead
+– Cookies: russia34link.com
 
 .netflix.com	TRUE	/	FALSE	1784853253	OptanonAlertBoxClosed	2025-11-26T14:21:49.716Z
 .netflix.com	TRUE	/	TRUE	1784853253	dsca	true

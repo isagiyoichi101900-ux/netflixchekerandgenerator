@@ -1,0 +1,18 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: carlosb7690@gmail.com
+– Verified: false
+– Profile: Isaqestor
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 7399)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1799008382	OptanonAlertBoxClosed	2026-01-03T20:33:02.039Z
+.netflix.com	TRUE	/	TRUE	1799008540	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA1KzTqzNnQyqt37pyEsG4YVlvciE-Q7l0_2D4N6CUUREA6htlS-4ZFDyhF70PkvbJVEYh0Y-58u0DLpjWLKiNKq6nYSo4HqnKFaS_-JfeMgHRkHZgqeX8NixM5LYy_9O4QERgjucQ4MoTe7nHDkLrO-fi33EiodgSeMyHrx4ohJK0syC9kVVkArYnCbUnFL-lo6pvvWqQJIW3fRS3Ub2L6ZGmkb988EdeQq70ID8HntVx3dS1kloR9r2qOr8IGxxc0KoUmplrXYVrI4XvuUAIJDan9OPGW15CgbcPTC_R-cAYbgowMhNXVnbj-971TL4wyUbC2JDvDPH4anG1WJ9iZpZAGK2IS7GM-8GSpV0kP2L6Nhcf_h--tc3zgkCx1gzJosuRwsXdr7Cvj-rMMiG_jwOW8ODAqy2PZFQgHeGASOeCnZ2N-P87BH02DXEMJWYv9uVOBiBC6DmiHa68UooCnuGP7uXF82Z4nwzpYWErjYnLDqUpE_fXeow_bMrOYqNl4wdU4wIW2YfGAYiDgoM-nCwZpsbKyQKn3Sv%26pg%3D3NY7CFKNEVCFLEPVPK6YSUE2BE%26ch%3DAQEAEAABABS4_xyIgJTeuSyYQGKTIAgr_cFCw_JWxvQ.
+.netflix.com	TRUE	/	TRUE	1799008540	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRfyqBALEnht73h0yGd9CAIn5qij4KreYo.%26dt%3D1767472540547
+.netflix.com	TRUE	/	FALSE	1799008536	nfvdid	BQFmAAEBEFdxiBNSyqiCcaM7mDf9rglguoKYoOr1oF1WZ5uwTUHEZXc8A-iz6MwgKn-ArU0a_VSMLrCyzPUXFq2pOLW8PNKvLoHRICGHPIihcK36HZrMMyjg-1GtVAPVnD6eBmALOETepa3zvjIlKjozO3Udumie
+.netflix.com	TRUE	/	FALSE	1799008818	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+17%3A40%3A18+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=588d1753-0969-4bee-b60d-a9fea373ed5d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR&AwaitingReconsent=false

@@ -1,0 +1,19 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: sheldonlogan@hotmail.ca
+– Verified: false
+– Profile: Sheldon🩵
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: CA
+– Payments: 1 | CC (MASTERCARD 7832)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1792874040	OptanonAlertBoxClosed	2025-10-24T20:34:00.220Z
+.netflix.com	TRUE	/	TRUE	1795898052	dsca	true
+.netflix.com	TRUE	/	FALSE	1795808687	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+27+2025+14%3A44%3A47+GMT-0500+(Eastern+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9d57feac-27fd-465d-8ce8-81c0b6223c15&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BQC&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1795808687	nfvdid	BQFmAAEBENpyFtXg4ARVcPk494_Dv6Fg1TgAzMMk9Peu7OemVW5HSXTYmd6frGpy4tSbY3Erbb7eG7Aq-He7emlxfaAR1jzm_o2wNEyf0xxKcZcXXksCRkHLi17zdzyRw4xVO_QnBdawFqgXMtGEb0g-7NTSr4p7
+.netflix.com	TRUE	/	TRUE	1796500351	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlmNPiQgwgTKQSVF17mawXiQlT2ybn-HI.%26dt%3D1764964435961
+.netflix.com	TRUE	/	TRUE	1796500351	NetflixId	ct%3DBgjHlOvcAxKtA8jHpNe7hzF9WJg9ZhUoUIhvAqizmC4ilp0FuM_PPtcDZzmX_nrNNNv6QcyTpB7jOo89JfLtXrOM_MExiiOGVl6koXKRbfxgVCBgQyWs2q9Tzx_0lckHeYim2BRLi4qKacLKtK-Ik3RXtJNutyEU1HjSBrdERy5NOmPLYIr5FJs41H1NwBWpg4BZ7hq-Xkpcq6nF2IINhTJW864Ka0JBnxFazAw8nPZ-Jo35VwzVHQEMAorT_jcHQo2EUuC4xGzPnoh36s3MzvdOu1Av_vAf_kw6voIQf-EoeriM67j-7AIyX8MTedhe6bnkS7wuT-trBhpfKkhOcRclF8xFewoKsocDGCpHe_CgFHqWZ1AsbIr-cwtCgG9ORWthPr_0nxUPXNEvJ3QEsG23Z2CFpgURFSjG_mIcpsJdxrgWKgFRXA5WV1qqdRHYO1r8QBcZ_Ymv1MrP8g3GaKXM0s-2Ee0mkwzST5GTbqwn6PSxnZosdLw4tM0dYHbD_QVbhrm7tAeN7A5qacCUPsP9f0WqjSys70XEpNzTQxhpuVHrecz4qv79WD6LiG76gJjaehbA1xgGIg4KDNwhkJqCw3ekF4QpWg..%26ch%3DAQEAEAABABTKP-ilyGSE3T1l8W3NdluQ0aRCgn3VuzM.%26v%3D3%26pg%3DOJOZQR4VSJA6DGJXVB6SCDNCSY

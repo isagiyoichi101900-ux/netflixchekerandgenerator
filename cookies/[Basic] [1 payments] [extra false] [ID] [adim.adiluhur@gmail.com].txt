@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: adim.adiluhur@gmail.com
+– Verified: false
+– Profile: adim.adiluhur
+– Plan: Basic
+– Next billing: 6 Agustus 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (GOPAY ********2541)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1807373491	nfvdid	BQFmAAEBEFd52aOYhoPen7NmgZoAGMZgLo7CoBJyin_dzejofkIc4cbiFbEokpDkaFPEONW7ucsNMdIu908-fuBtij-jEPoENI8efTneK8MKjS-WhM5OclvfUYoWnLaa4p1nUeKCrDwnoNojTkPSCgzsnsF6en99
+.netflix.com	TRUE	/	TRUE	1811401019	NetflixId	ct%3DBgjHlOvcAxKHBMJ2OfnN4La-qjnf7fQ11wGurarG_nucEe9vYgQAPTrH5l7PdR4zAq15pA9TLZmkwf1W0TrxI0Q-UKJiSBFw95fGIePeQRE5vlZPKxN-MCmW1LDfObdSv9SanlCjhM1XIFe6ErneMVwZ3znnTVGTEUWfag0U7e0jWqxLa00rk6AQ1kQT9lx_5uQ0Pn2NRgJbRlTFwzQ8kNNdAvK4FKaHsnVFEJOVWa4dCLCpK_XXG4pTPmzLtkiENK8XH1N9DGyFAFnLKNsaiLD8MYJ3RPZg-PymMZJVq3n6F2P-jiQGpZiuSKDHWK1qzJhWJ7bPVMdqHdN7NQ6cYZjHVDE_NaiPoCJ8EVBOeJ4cMalNB78vNQc_z8pYYfPtQypDSJCiYzMoiq52FTQULCfBijdwj4QeZuEfRM3OZbPCVpMSYw-3AuXqVLMuiecHJivNobdFUf7_CJQVchM3yAg6EoAM-hOdsjSKI4RTzvo46Yr6RaAvL3SaCE0mGEYYjmNJvwoFR7PghbIelpDspzWjG-rdxHCqCJNxPu3XbeC7EmgvTdVOwAiA21N5qLHe5L36WJdXurbCqiX_Y2XIeSl1F0SQ3oxC4BPNptLFPcwyeOAZx7aOiIYHZvbPIRGB14xwdk44dO6nmzjSI8RAmDpKn1331QQSGIrSQf32QqbIVXOL4m-75hW6ArGg-2aOkxgGIg4KDPT3SI5UMopKURRonA..%26ch%3DAQEAEAABABSLxCqkzq0L6ssFbpwIDccN6MjIcpjpl_4.%26v%3D3%26pg%3DDPLS3S74EJECDBRO4VSMIVNEYI
+.netflix.com	TRUE	/	FALSE	1811401020	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+13%3A57%3A00+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4d821cdc-0a6b-4826-8e27-ecc4d5e602cc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775837491722&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811401019	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSYPUs7NQJGBpwWfoenVbTQ9bEgHKylZdA.%26dt%3D1779865019088
+.netflix.com	TRUE	/	FALSE	1787641019	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787641019	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787641019	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1785941163	profilesNewSession	0

@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: lago.fabiele@acad.ufsm.br
+– Verified: false
+– Profile: Fabiele\x20Padilha\x20Lago
+– Plan: Standard with ads
+– Next billing: 15 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 7070)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1794793931	OptanonAlertBoxClosed	2025-11-16T01:52:11.002Z
+.netflix.com	TRUE	/	FALSE	1794793927	nfvdid	BQFmAAEBEE_07SsCctx8qhXR7GSaRRtgzPk1zNosDmHmDEMWq7f0xpCGFpMalpZZiUSjwEfRycvYmDrEX4ywsTGNEo8HoNX0Lr3h-EAPc0UqjYvrMr_ZO3qXOtH8GFgYE3dD6cu9BzBo8jYpCMgFo0ovDV_aD157
+.netflix.com	TRUE	/	TRUE	1809305642	NetflixId	ct%3DBgjHlOvcAxKXBOrqhL3ypBj3JH7OXSkYg8M9UudK508efH9-gpOJhqRihdAjVR_UFBKFwYGuZtXaDIOLB99Bs0TeCwcl8Leamzn-dehgpKcscD-Y1Pv5kJx4Nf4AR8Z8V8LvLc0KZGevtOS4aDUdjNJfD4aRw_RnKA67Uw6ycy-qVa93-JVe6OCVM0wSHcd58WlPE5XuoDEgEJCEqa0TSaqsJ_JbUD7y0thDlIUBYyBeGaFG1Nfz_v3Y1sJv4suyoh7uUCxTO-jcFEzesupJHUGnqGWjwaRAJHOTtqyH2lRMUhJ23q_6TnhFC2sfiK05fBpL4luPuWCT1icG1BB1RTPYo9BAI_kmwZnWN2m6cpYZq95O0JGrA2RFgApfY23ivOX0VIR2zxaFNXAyqEt08wdUrxzZ5sXXgKGGyPtunfBPw8HQBVI9u0NEY6H7MQQ9_wmLA1tutgikkdVRsHr3DD97eII178nILTV-XXoKz5V5KWl2Q4FLNyHb3gqJ2OxQphiaOqoc3xgXldEGkIGbiZtXLKJgDpMIS-BP0aFPdhm_jrRn3lQKMdpbSEXxI9iAwzRxipY6qBCJo4ImYxGhclOTtyGyMxpvplAR26oPOMtFCRwgQk9jC6QOfmTB_k8rmorj6pYhFnB1Y_rTwXMLX-8YnDftIB2JR8motsu_SjZp-tKU9nfc2ooIcvQBx24v3G182_Zp0mmZKEtcNpINhF8YBiIOCgxC7B8UKmyEThluuPw.%26ch%3DAQEAEAABABQAqoEel7uDhX1_cfr_sCECDJqlkEuRExs.%26v%3D3%26pg%3DTPDOI2IRZ5D2LFMWFAUALRV4S4
+.netflix.com	TRUE	/	FALSE	1809305642	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+21%3A54%3A02+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5c3bc284-340b-4e84-95fc-4201ef1979da&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRS&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809305642	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRzg0W9VKuk1oyh24NFVjWg66B7rA4-B9o.%26dt%3D1777769641041
+.netflix.com	TRUE	/	TRUE	1785603413	gsid	ab66dac8-337e-4c05-a364-0ce6f85a3f09
+.netflix.com	TRUE	/	FALSE	1785545642	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785545642	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: thaliasousa_@outlook.com
+– Verified: false
+– Profile: Thalia
+– Plan: Standard with ads
+– Next billing: 4 de agosto de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8195)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1794842473	OptanonAlertBoxClosed	2025-11-16T15:21:13.380Z
+.netflix.com	TRUE	/	FALSE	1794842497	nfvdid	BQFmAAEBEOyWEzZeLnXiuSxxhBlwFolgpURvSjS7kVgl3lmY0IrBQwPkNz7Grx4F9M8BaDnJ8ixuWY4GL9VF9bXdwhi_H7gRcd74JYTAcmpeLg1K5RuCj3IYLRYyi84R1jSFLRyLQ8JCNHiZwvUnzrLdFZN8uZRS
+.netflix.com	TRUE	/	FALSE	1789095177	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1812855178	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+12+2026+23%3A52%3A58+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3f3a4368-906e-45be-876c-7fefc688036b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1789095177	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789095177	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1812856887	NetflixId	ct%3DBgjHlOvcAxL7A_PUIZ6H2n7_Vvqf9-1zLsfjB6douDUA2yxA3DsyQTRsa2r_la27i1rdzkz0wXeY8tJ3NjP3jpIShqzXeGTQkoWFRYesRs-cXN9kPYYwrgz_mT5hOU7wJz0Zuv0eQjjU93q7lbdlIiQ95Rlx7s8RCMO-kHB1Yv3Lj18QBeKLx0eRdOgBj7QWH1ELtPtQGmE-w3CPkwv6QgEE1ER7BQbUJGM235ekrW-Ev_DeSgTocZKlX2FuDILoebTBBaSUvfjn-nsfmVQkcFoqlMeG0NwkFwdOM0cpwMYSxeBwmpV9ZoZ_4lRnpCJkxsXrVR7_ACHsZbYDR5Sm3t_6hpZ2aDJZIp_R4QLFHnvPnoZC10iH2QDHPxHSvmYKTxOdKXJgmrIgTKOYUWl4uIVk-lSJ4zHr6TXo5df-cn2yRkCLz869TMb7HvLuUKJN7xAmEjf0sUUZqAdMDOre05PzU2j30g3415fofs5apfnzEz7uP0fhECXPtI8Fyf2VRZigOIku_1qxw7OVtyDn-hwtbRdyL2XQYJvy0do-1KPZ_Sctj3X4XdjRUvyAtIg_WfCFBWPNH5SX0C5MqtIeGLdQ1kLvDNG-WLOT6XNsLANo92CclIDZ_GWdxPD9-c1M2odvr0yZHu-Fd2KBfx8UyFGam3NEKffPvEev_E6BjjjuKAMmxhgGIg4KDOF7a9wR3EBwpxqXaw..%26ch%3DAQEAEAABABRHFsj8DP-dKOVERINa2LcPv6oMeYHZ8vc.%26v%3D3%26pg%3DC5XR2RTZWNFNVL5PHR6FZRNXAA

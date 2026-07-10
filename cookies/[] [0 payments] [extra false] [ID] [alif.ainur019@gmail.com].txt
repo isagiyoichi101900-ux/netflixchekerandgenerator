@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: alif.ainur019@gmail.com
+– Verified: false
+– Profile: alif.ainur019
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: ID
+– Payments: 0
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1794944989	_ga	GA1.1.983863271.1760384990
+.netflix.com	TRUE	/	FALSE	1794945003	_ga_97ES2RWR2T	GS2.1.s1760384989$o1$g1$t1760385003$j46$l0$h0
+.netflix.com	TRUE	/	FALSE	1808749197	nfvdid	BQFmAAEBEEE2wx8FOQCOPxkegUNIz8lg2QQ6VMV_TI_7pmgiDu3XC3yDrC8K4OvgTibDiYS_lgrVWVz6mDdrIgFt3gr-buPkLReqCUAWivRxtmRtuhxyepQHtM0rc9D5gIuRcjOmiveRwcf8B37AZlfSX_67K8We
+.netflix.com	TRUE	/	FALSE	1809679693	NetflixId	ct%3DBgjHlOvcAxK6A8TI_b7rxCI2cHyPbM_MZo6hPLGn82N-GwLuqpclHOcV-G0arW1aXsBelcLIdMyDxElI9TPIoSJ4OGlo_kAhZFRltosYtYTs8krVjdB_jUVsNinEsnkcicxQnxk1F8vmMWzJ9UmMA2Sk6sUCUVFGLD0QyNbPYINXpI9peeLiHHtMt2kNB2vRAH0krltbj4uY6FwRHRtoV_o_MMnRKoXYZu7GD8vbDIW0p7UY6gS95RFRueNN3QP4A5wPuUs5i18NJ3uBoM6FrDtxV53aYo3rxXmi4y-bnawpwehBBA-8WZsu6tsvpJy_UQEoYlqYeiOV-lq2NKCep66T9D2M_TwyD8nHPHCDszw2UN5tk345lN6x5ZNXA1xAeJu4F2cWKceIOeJi981A6sH52l_Z3FJ9JjEk29TQSw-wKfpV71SCeml5vTHxAtcCdr9OpIktBpwqnb5AF-mSG7wZtnJ-RtygLLpqBIwKvQyRrFwr1ABxoAwUZNGq_EWq-j7klDozhPZ_U4Zn6krYn9xI-GMMKmJGs3npxCSnaWMSQtVNvISE9LxM9y4fUXWIVhCL71VPjRiC-J_TDtAw-4SXdGQYBiIOCgwfmLMiH3eBXeNeVNA.%26ch%3DAQEAEAABABQoa2vyjqWZ9aDuhgTVgYieexU4sxdFne4.%26v%3D3%26pg%3DHZHIDTOVKNGO3FCTANDA4QWYGM
+.netflix.com	TRUE	/	FALSE	1809679695	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+15%3A48%3A15+GMT%2B0700+(Western+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=57091433-51e0-4603-bec6-d56e5da51f8a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1809679693	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQr3uB-dxzg3U0NIOK_hbm5On1k-iMM7Y0.%26dt%3D1778143700884
+.netflix.com	TRUE	/	FALSE	1785603409	gsid	43baffa2-6914-4812-8c90-9ec2544ea9ac
+.netflix.com	TRUE	/	FALSE	1785919694	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785919694	netflix-sans-normal-3-loaded	true

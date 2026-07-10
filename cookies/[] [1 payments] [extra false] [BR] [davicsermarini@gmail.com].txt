@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: davicsermarini@gmail.com
+– Verified: false
+– Profile: Davi\x20Sermarini
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 8089)
+– Cookies: Admin @logslead
+
+.netflix.com	TRUE	/	FALSE	1795873969	OptanonAlertBoxClosed	2025-11-28T13:52:49.359Z
+.netflix.com	TRUE	/	FALSE	1802181882	nfvdid	BQFmAAEBEKLq6O7RoP2AEAOTkq76kYVgR7Q8AActUHFYMg8n9Ti3VSVgyteg5af19-7bUGDCVXyREFe6m-6IKwaoXLJeuzWAKiyO8pD3lXsDkwU213OCseOglfM5WAgLElbJBQ5i4IALpPyEIdCYYVBrmtwE63_O
+.netflix.com	TRUE	/	TRUE	1803315197	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSYCurSYk1n_vZMcoqUMtG_QmOnFvNo5jA.%26dt%3D1771779197204
+.netflix.com	TRUE	/	TRUE	1803315197	NetflixId	ct%3DBgjHlOvcAxLsAxiceu5G6uUnOudIlUChlDRUvuG-_XPOdfplFV8K6KxNbD3hcBFpVVti4mOR04P7N7MztwrGSIHoQEv33b66Lm7Ykr0iwPatQeAE3RLNhgpDOenQ615kXKt0HREe1YPhcNUcwpyo9bv0YUpWXAZB3AYXpzVWoz-ue7z9u9p5xlvjkYSAG1TDlnryEA6qwO_5W4CjKuIgQN0Ss1n4XT2oKw7D69XsowvmYXcpSbBliU7zrPnOPc94qj0B-3gDmrBTgb4eGIpW7rPQWHxaQuISa57vvozbNRSaWmuA2_JxPQ0ymE3FctpIZeG8k_7HDRYzAqAjUDycPTqbX7gaje79il7mIWyiRtSQwB5SFYot-Arqw3nfSSN_bkBVGeQDJH6k2GyvnyYqmQwUPMfeRj6cAE7Q4y7E5nEBWZRVftmPK5CNhk1M9U_JHvUKJHsRYyCzHOw8pjpc8QGFy5EKDFTmVBcJpEyOh3VZBJaV2ykeAh5hlcSbzfc6mLZQc7iAvaki4Si9uCT-dUMo-suzXlgqdjbtxfMxEAGlwpZooFdqEGbV6oxU1GUW_od2dshqt7jKi4DdKIChiKiTXurjUUE9nQOkwyTqXR7FFt5CJ9Yi7SRz52E325t5DvZc6Tv9Hst4pK7IEv3hIxwPCMDtpRgGIg4KDN-Y5lOZ_NZ60YUjjQ..%26ch%3DAQEAEAABABTHlF2dxs7UjxiNytsFUiYjUOHGonc042g.%26v%3D3%26pg%3DU6EDNNKLPBG25J75YQG5AKJGVA
+.netflix.com	TRUE	/	TRUE	1784853237	gsid	22dc1e55-5aac-438b-959c-1f5a5b424e73
+.netflix.com	TRUE	/	FALSE	1784853237	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784853237	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784853237	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1803319363	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+22+2026+15%3A02%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=18c3363b-4b59-4844-9b0b-e7ad20bb37fa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false

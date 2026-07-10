@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: NZ
 – Payments: 1 | CC (VISA 6565)
-– Cookies: russia34link.com
+– Cookies: Cloud WebSite russia34.com
 
 .netflix.com	TRUE	/	FALSE	1808368510	nfvdid	BQFmAAEBEGOcIc1iT43xpqdf8GfbVqRgSK2r8LnNp7SASz9ImbEyonJqAkYysi98ja7Pk6-yXiEM5z_o0tTUTzXxsn44-vCN78_92uG6JhSKdBx0Tn8DaTOUSP1tmOFo1mh3L0gCK7Ws73FlqUXtk4T-FCzPdOvJ
 .netflix.com	TRUE	/	TRUE	1784853248	gsid	5f41830f-b950-49a4-99d7-85eb650938c4

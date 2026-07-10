@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: BR
 – Payments: 1 | DC (MASTERCARD 1098)
-– Cookies: Cloud WebSite russia34.com
+– Cookies: Admin @logslead
 
 .netflix.com	TRUE	/	TRUE	1804776234	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTIpOu88fWzfRVaCUTFdHXBYiesMUFhdYo.%26dt%3D1773240234462
 .netflix.com	TRUE	/	FALSE	1804776234	nfvdid	BQFmAAEBEKipyJEkzDI_zPHhdPaN3BtgdBw3Tkr0svDIF6RZ_M1OAHULXU4clyWtzgqArsQsGzM_vj6TviDRaqdsprZiOMz11f6OtK-Ct69wNviSCpO_MtNzkcrPKsdcavQHWhkgv6sU4WblTfLFJbUn5fS-8HFK

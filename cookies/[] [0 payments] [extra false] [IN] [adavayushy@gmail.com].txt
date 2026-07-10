@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: IN
 – Payments: 0
-– Cookies: russia34.com
+– Cookies: russia34link.com
 
 .netflix.com	TRUE	/	FALSE	1793812532	nfvdid	BQFmAAEBEEnQ7FmXKGGkpRlYxcMh30Rgzkhi232WmVaH8Co8Z3p3SgPwgN69ZJ7zQ9kpW8VMeNaJkkQi0n0GBwERLpq7m7e2MVYf82orcC7flKtZT7fgiBPiaw5zwfFPC9rIOe_BP7iy0NHXY7Zzr6LW2XGsfkHF
 .netflix.com	TRUE	/	TRUE	1794810159	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSzPgAbFt7Ik_6eVbinPqJ18cOkNK34B2o.%26dt%3D1763274157972

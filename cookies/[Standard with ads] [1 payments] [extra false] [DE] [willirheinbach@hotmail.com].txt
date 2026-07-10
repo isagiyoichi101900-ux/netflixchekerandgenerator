@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: DE
 – Payments: 1 | DT_GERMANY_BILLED ( )
-– Cookies: @logslead
+– Cookies: russia34link.com
 
 .netflix.com	TRUE	/	FALSE	1794227592	OptanonAlertBoxClosed	2025-11-09T12:33:12.079Z
 .netflix.com	TRUE	/	FALSE	1794227607	nfvdid	BQFmAAEBEFPMcvTnsc6FZwf4XMfL03Ng1Vw2Cx5eCPoehOdJicxVKJuYp3U3k-SVc0KnCANLp6fIdYsXELDBO4SfGQ_RZUCwHGcFEes3Hf_fBokJX4XZOe1j_oN7qpDjmaQXyi7Iv3Nzdb2-nuQ8hQcGZ07h3HDo

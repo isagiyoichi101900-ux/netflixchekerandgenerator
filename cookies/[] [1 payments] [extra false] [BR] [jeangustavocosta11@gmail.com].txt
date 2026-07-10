@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: jeangustavocosta11@gmail.com
+– Verified: false
+– Profile: JN
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (ELO 1207)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1804896872	OptanonAlertBoxClosed	2026-03-13T00:14:32.255Z
+.netflix.com	TRUE	/	FALSE	1804897516	nfvdid	BQFmAAEBEMefwEq2a_48c4xlRpBm6-tgQF68d0aSPe1yJZwhBaAJU8krT8eTcri5njFnXwHTH_IHlVVXELZKhyA7oQ7tR4hnDKQFi5Crz2PvfKZ-ZFb_XLCX6qevX5cEmIW2qN60C1NuMy-fQfMgQJ6n37gNgdI2
+.netflix.com	TRUE	/	TRUE	1805900402	NetflixId	ct%3DBgjHlOvcAxL-A3tQJWLSio6PX5E2jTRzjP8ri_VSP_Ysygy7J41yfJkvc_u8ZEBzD9rebDBE2Tl_Y8emKsIcp6-J7etAXglyHSfvnPIQ5jwlpYCWtev8aM8Gh69OnZttqsxlXE2UfhAS_KPCp3SXfey_3Sm2PoS88p5rS14LMJ5jtzy7dc6IA87JBgbYkp9Yy_Z8lElHtdRMTY1ug76hIJR8CyaPHTJZQ9l1POgfnvZBeTSvvO2lAJf2B8afztVPjkb-jwG-g5X-oQuy7cWsrV8MS8k34y9OpLxXE7RbizhcMH0UjsFI0GJqYjaMFwiylfBJlsbzhx_ibZracQp3SLtTZdV9hctHAJy_sgs_hkJLAhm6n2VG5rW2liy-WQhYjU4tZeSHK0W_tempT0hnc8BjWbzKJAahTaVD5anhHH2-7XObBvI5WaNmw2--Q3IFKonXF1L5hU5AHVdmXAHkRspBKPW1FIbCTstpGOsV9Wp_5KLtS2gF5iRxRsEtb5vnNs_RpXawPbMcDF8cenXS5ggdomY5SR5vZajgG8bscKO5Mx2JeE5aAzVOQF8VyMmCaA6pPFBajhUqa7Nxj5QU84dp0wCA9wgEpynb9ZRwT-YvONB-kZG_FQLEMAqWyXuwZt0h__GuEnWdnIYRwFWtsTK0yINM-VIA0daeeHQrqH8bjAlkPXAA7xgGIg4KDE2_KWvu8vzrybsffg..%26ch%3DAQEAEAABABQ6cJcvV0bHh6c0yOxD3dcyAKI_G0kHFSk.%26v%3D3%26pg%3DDWLLOD2QBJDFBA6LPEYUWLQDXE
+.netflix.com	TRUE	/	FALSE	1805900401	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+12%3A00%3A01+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c5a8ec2c-b942-4f49-9b17-df3b7bb94e52&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1773360872799&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805900402	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSAIa6JQyReERqU1QsycVOyEhzOclcM91w.%26dt%3D1774364402656
+.netflix.com	TRUE	/	FALSE	1785603405	flwssn	6a17db4e-5483-4b29-a512-e92c8ffbbef3
+.netflix.com	TRUE	/	TRUE	1785603405	gsid	e569ea79-ecc4-4b1d-a3c0-1de16f2f013e
+.netflix.com	TRUE	/	FALSE	1785603405	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785603405	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785603405	profilesNewSession	0

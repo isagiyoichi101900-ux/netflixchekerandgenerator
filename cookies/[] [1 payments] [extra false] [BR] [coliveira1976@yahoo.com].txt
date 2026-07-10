@@ -1,0 +1,19 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: coliveira1976@yahoo.com
+– Verified: false
+– Profile: Charles
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (ELO 1104)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1798257627	nfvdid	BQFmAAEBECr9i1MobCk9tf-XkKSJkW1g1tKeKeEHtYt6BH-rhSbAxUlrAwNInvSc-yHJ9c4j9F21TKBxwN6RykoR8SxdMihCRBQ3efh75nHhD6Qsig_5WU0DpyO9qLVmxSHzyoNBE6gATzmYOGzucM_oP6ORX1qr
+.netflix.com	TRUE	/	FALSE	1801281655	dsca	customer
+.netflix.com	TRUE	/	FALSE	1798257659	OptanonAlertBoxClosed	2025-12-26T04:00:59.066Z
+.netflix.com	TRUE	/	FALSE	1798257671	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+26+2025+01%3A01%3A11+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=186c0fbe-4958-4505-a599-17214790c6f8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1798257691	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0AquEhRsGYaAgV6k09W6IVl0XwQwGgruzonkfrU-715CRHGeAd7PcTqP37GtWsaaNVWF5___gtfCcML08ra_H0LlRAgXV8O_lm7aoH1uuEVsOaO0a_KJsdY4SND11PtpwqW9IaYTb85RNsUQw40APKCWAcaUTyPy7nVvcuPI_6qSVxZn_7zvMtSK3q_-cGLQ2BlNgUvNjKgrpbOi8nOV2f-2S06ktELSqnzmDrIa5Ycb-ixRfCJ5evMZ4qc8c8TXm1bj8f5X7KVaEVEcI3QhUbrudV8z9hvoyc4ygNhjjaAYk0l9dPfEcWhKsR67VqgU5jGsreVPI2JK5nS0McoazrxogdZem89vEd4Vvc-h3iUBJllxV5wWFJWP_peY6f1sVmDOZOraIfYNhw6P9OLGnyN366QkHF3qdEdvw_o6ChcFkyihZa-nGVYCZZWkjBtA0ZQLrYVli-l0wTKTfrZjHTNtxXOr7qLCbqhW4bkXGUf6Gly_tbhgGIg4KDDhp1yJibPhcDiBY3Q..%26pg%3DFGCELXM4OFC27LYXJXNFSAGV6Y%26ch%3DAQEAEAABABT6AjbCnPlqkduFk8EG-kf5C62WNzuoY0I.
+.netflix.com	TRUE	/	TRUE	1798257691	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-Wr0U-t18T0enlu9DBJoyhPLq_T3xRt8.%26dt%3D1766721691984

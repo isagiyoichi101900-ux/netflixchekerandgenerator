@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: BR
 – Payments: 0
-– Cookies: russia34.com
+– Cookies: russia34link.com
 
 .netflix.com	TRUE	/	FALSE	1802832834	OptanonAlertBoxClosed	2026-02-17T02:53:54.997Z
 .netflix.com	TRUE	/	FALSE	1802832996	nfvdid	BQFmAAEBEDAApnC7s8cxdzuvFbneIlNg7lgtWs-ORQTrjgkGeOJmgdEVFqg72XLJwB_1qyxlaC62ANCPN04uWOUbbCJn61x00idPvxd0c8eX8UjaexIH4-HX8BVAr-udlMWm3G4yktTu-IOBM_EHArdNqw6Qmq-I

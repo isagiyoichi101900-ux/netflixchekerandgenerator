@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: davibazolligamer@gmail.com
+– Verified: false
+– Profile: davi
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1790032583	OptanonAlertBoxClosed	2025-09-21T23:16:23.643Z
+.netflix.com	TRUE	/	TRUE	1807409613	dsca	true
+.netflix.com	TRUE	/	FALSE	1810611832	nfvdid	BQFmAAEBEBcuO3AUop-e7YopfssVzW1gM16gd4GBwsFuhc9zpBzBWVxx-mmZY3qu9QG7ifgrOWM5yl_tYopSqgNV1ggKthOr_wF4_pez5-IbSJj5myTsc6ZBEsAQKgVsZGg4st-rcwcwxQK4JhiOmfv2TLlxN7Ob
+.netflix.com	TRUE	/	TRUE	1812846654	NetflixId	ct%3DBgjHlOvcAxK9A0W6xNqN9qir2AgsRExVu70xDo5A0lK0jbSU1NdbDuyw-fIPAfkusRlt_oRvq_rvmp4BKSArWNu2Wka46zYBu8VwfCiyVRe0flgPWnD5Au3F08vByNpS1y7tYKiRpfD4fDRefCpPZKfJyMtXUOVxkcqi_xZf0Jh0d-KDohkMDoktRY_A8fjfdikwLzYEK-HZtWdXF5efbUsnX4DxVrQ1B2U3sxKJyjrTAwirV80G3WTXMeaiuBRDTfg9-uYz6CpJ-3qK-oIZhvS-CrCC6A18tmT36RjiNfq_J0Be3qPPxZ5bXlg5BLZjnzDUPEFdcTItnxhMuRK1kJ56kCJw00F4q2uJeq_HuEIzYIYsW4cY0UGcsXjdG7K_xGNfFO3CsTENZARGztFGZ7QeNVtdI4X4NGOh6zBi5A125fU3w25kF1bIjwtvT36XXXqITzYxN8YXGWx0wU9le_udpe35aEAf_yTOTSzQFwbOYg6wzMS-WvXw5SUGc1uEW_Ls63HsC14f3I0D4AIZnb88pHXw9n82WHpMHGqUe9ygKV-XWnOhHTn2-ic77qVWGus1bhrwBtH-yeaGqXboH6NtyZvAgUMYBiIOCgzyihaLJLgAEcdLMzY.%26ch%3DAQEAEAABABSfKouwdPeELxgT9UkcKIio7NU8g0YaXDA.%26v%3D3%26pg%3DXPAIYYX6M5HQ5MOTRGDJ6B6C6E
+.netflix.com	TRUE	/	FALSE	1812846656	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+12+2026+21%3A30%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c63af3c9-f81e-477a-9a15-15db3a51ee1c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1789086655	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1812846654	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSoMJ-fllzwILnADCqhmKz7lPSNpgKq900.%26dt%3D1781310609158
+.netflix.com	TRUE	/	FALSE	1789086655	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789086677	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

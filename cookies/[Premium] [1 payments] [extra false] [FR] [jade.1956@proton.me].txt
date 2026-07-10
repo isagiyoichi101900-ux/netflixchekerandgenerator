@@ -3,13 +3,13 @@ https://russia34.com
 
 – Email: jade.1956@proton.me
 – Verified: false
-– Profile: BB
+– Profile: jade.1956
 – Plan: Premium
-– Next billing: July 28, 2026
+– Next billing: 28 de julio de 2026
 – Extra members: false
 – Country: FR
 – Payments: 1 | FREE_ILIAD ( )
-– Cookies: @logslead
+– Cookies: Admin @logslead
 
 .netflix.com	TRUE	/	FALSE	1808409224	nfvdid	BQFmAAEBEBu5RSGTQTvCFNAYU4g1gglguqTUwbKq4AZyl_iKAFbc1NKHSl8TjvjcdbtZ2JM58fQUPmDyz8nRkShneIsnVx_uqVxoYDt92CMEfNCDC5o8mIoYJiwxtT14idfkt0XzPDD-h-bGvMRyEyp5uFEWqEa7
 .netflix.com	TRUE	/	FALSE	1808409181	OptanonAlertBoxClosed	2026-04-22T15:53:01.682Z

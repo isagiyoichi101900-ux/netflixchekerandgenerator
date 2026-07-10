@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: lucasvitorio@outlook.com
+– Verified: false
+– Profile: Vitório’s
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 7842)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	FALSE	1813174301	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1813174301	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1836934292	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+17+2026+16%3A31%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=605c176d-0b80-46d7-955c-118c7755ae75&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773012940731&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1836934290	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA_rJ3Z27Uy8yXrZldM_EGhJS1ZmOKLskEZVWR541ZP3Aqqcvap_bOQBpgVy260r4n2tC16qhxIdtfOo7jzr-KUFoaci_LZK4oQsuQX8OtWMDQBg_RFTtQQxIj58dsJOjslMDRu_z5pQoDNPqQySwzhWUJ6EJxCh41BH33dV185is4-iLNh4Whp5-VMYB23gnJfIOgXsXRylEMAPfMnnlztj8uzg7YmRkg5SMNJP6PBdGCV4XIvVRC9s1sQCvAspLmnwn2ZGqvDlV0_GHqMQo_PsCs2yXZbIl5Y9utETUQGk93ZeipAYWbR6tQI_EubwjVWiuaS136-J3G74scTUzHsSAeCnkH5efkNpxynWlVVyvLy9kcYf6VrKAfKtqACaXImj3wwfY8GUuVILVxSzwkI9f2mgxT96LJomlx4HcygXFFzDqX5CaDcV68WY-jDfiptzy9Ez0ynRKoyL2jLOUMsZfKBplKuP_1FZjrbrk4S6Z9gRatmrXSADCS1x0W6RmJUfWy7xgjbKcGAYiDgoMwkm9XjY5hwzVO9iP%26pg%3D7Y2RISVQQNE35NLIXROAPE6PIM%26ch%3DAQEAEAABABQQANlWRcDS3LhookasMJqM6gRQeBYSsHY.
+.netflix.com	TRUE	/	TRUE	1836934290	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcITTWqnsIIgICcEuQQQS9ICQLUqe9dlE.%26dt%3D1773775906708
+.netflix.com	TRUE	/	FALSE	1836934290	nfvdid	BQFmAAEBEC28FEdrPb3WjRIuba9hNdVg97rmV5J_xPycYtO07lUCM6WTTxdXQZMDbCQ-9wLGfDX_-9HHm5YpN_z2FmqpYPOT9xt-JY2rFzg6Ozi1A1X9aT7xr4ZbxCBMl4bbPRCj7wy396GemWvjGZjk84Z8B1n_
+.netflix.com	TRUE	/	FALSE	1836171340	OptanonAlertBoxClosed	2026-03-08T23:35:40.243Z

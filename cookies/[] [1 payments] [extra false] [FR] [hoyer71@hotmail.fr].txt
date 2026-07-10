@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: FR
 – Payments: 1 | DCB (BOUYGUES 2962)
-– Cookies: Cloud WebSite russia34.com
+– Cookies: russia34link.com
 
 .netflix.com	TRUE	/	FALSE	1798204759	OptanonAlertBoxClosed	2025-12-25T13:19:19.281Z
 .netflix.com	TRUE	/	FALSE	1798204774	nfvdid	BQFmAAEBEDT2Kaso6KxOdFHuF5k12OpgNbXWAlbTSy_x66pSuPxljLxpuGa7wA7UShom8T7ntn97IuR_kJwk15cEOkhe_yPXkl87vkAbR0qV5NP4-26n7Jm0yJCRJrWYG70P75kz3b0QABrqaeF7NE6Mb6fUVzAR

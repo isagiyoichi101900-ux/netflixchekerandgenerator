@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: EG
 – Payments: 0
-– Cookies: russia34.com
+– Cookies: @logslead
 
 .netflix.com	TRUE	/	FALSE	1785326787	flwssn	53fc4f07-91ab-435c-bddb-320b936368b1
 .netflix.com	TRUE	/	TRUE	1785326787	gsid	44786e54-96e6-45fd-b8e2-2c5dc4fa18c0

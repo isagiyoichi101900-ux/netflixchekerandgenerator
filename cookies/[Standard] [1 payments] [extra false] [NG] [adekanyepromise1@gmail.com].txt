@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: NG
 – Payments: 1 | CC (VERVE 4535)
-– Cookies: russia34link.com
+– Cookies: russia34.com
 
 .netflix.com	TRUE	/	FALSE	1811885121	nfvdid	BQFmAAEBENZ54DTsytneVN7RUdWx_9hgNYyl9XdkMrCjZQSFSutN2GwMw8fKxELQJFSvsh8OapcHt1fq_r4TeeD7C2sCvBAFtc2t8D78tOwZwXPdMHiauChPEiq_BexxhP4jzaWZ_NUlF3TTbLl1GYRD-uMGPuI2
 .netflix.com	TRUE	/	FALSE	1812993250	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+10%3A14%3A10+GMT-0700+(Pacific+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0d7040a5-196b-40ff-b299-3879420f7b10&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780349121129&AwaitingReconsent=false

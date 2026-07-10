@@ -3,21 +3,21 @@ https://russia34.com
 
 – Email: mila.rachel379@gmail.com
 – Verified: false
-– Profile: Jamile
+– Profile: Unicórnio
 – Plan: Standard with ads
-– Next billing: 29 de julho de 2026
+– Next billing: 29 July 2026
 – Extra members: false
 – Country: BR
 – Payments: 1 | DC (MASTERCARD 9920)
-– Cookies: Admin @logslead
+– Cookies: russia34link.com
 
 .netflix.com	TRUE	/	FALSE	1799762664	OptanonAlertBoxClosed	2026-01-12T14:04:24.705Z
 .netflix.com	TRUE	/	FALSE	1799762734	nfvdid	BQFmAAEBECaCSdThhpiLabk1dduk1_xgtyfBVJuT8-8GGOVXcy2-1U3O22djz49pj6BPVBOQSDZbv2ZbUwi2ZlDZcG_z50wS9914xUsQkJz0Fois0yvhOLPHYbHYyCysOAmNxrQHcXuB5vLI4BL4tpKdT0XS3uQy
 .netflix.com	TRUE	/	TRUE	1809621728	NetflixId	ct%3DBgjHlOvcAxKIBLceBJM2RmpUJ8gcXaUPmq6l4NZs-7CgjyxQOCM3t6sawO8a3rycspLYn7OMkqJjgKzsxyezwKjuQdLhJM7eN5axBy_EYg1TLJXjiLs6cckeI2rXX7LoDWasLR_qwVr6bE0AnqxTUFfYPk9U5BPPdsIkOxIb6hhlVh65ppweqDkUMR-nf72V-gCLzZm9EyD3ayl_iChfQ0_JLh0eDX0gnXN-8jtirBTvKrvB1xIJ3yB8PAs28dWmuaPd77BsrZiyG1OxBzMY5ik6Y2mhj55URlIoDOZ2x7Tu8UT8BijssZH9eU-k0Ryq3zPTqmcEiDV0RLX3wF7O80gKZDG4HNRLSt-Edo1UT0fgADRxgAD-VAs4tAiN0D0nyJvOKYipIDLEi0r4RQil4RTCl2e4bvV8qMFAIMcQr_6Rz9M5q3K8WtV94bPAtD_gWqCCUlDOJNGVxdNtoeONuFmTv4WgQifX4rbvfafbJmTheMvoXWTZn5yQIdCKfqxvFTAa6ObsaKpkdU4a7gur1oJeMfV2jZdkcTbatPKSYZ7wUYMEKuSdr2rxGPE4QbFggCiu1s0ocXfZa7fYGD5hLtj-7G77rovmAl1PhzdVWh1ypwgJXlS5S4CWhVaDJBaVxKgYvvnKEkUY-r7sSF6bvTc8o7uesvT2kN9v_MvLUrYAwwk25hJ5w2PofsLa4UY3j04YBiIOCgzUWdStXUMsULrRHtI.%26ch%3DAQEAEAABABTP4y-UmW48c6TIBZow011uRJyTnpaqSwc.%26v%3D3%26pg%3D4O7IUJ67ZRHEBANDJSDJYF6MDQ
 .netflix.com	TRUE	/	FALSE	1809621731	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+12%3A42%3A11+GMT-0400+(Hor%C3%A1rio+Padr%C3%A3o+do+Amazonas)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=35ea5bea-1085-482a-a28a-aa7cbafd363f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768226665220&geolocation=BR%3BAM&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
 .netflix.com	TRUE	/	TRUE	1809621728	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9tjY91jGJXYzL7vvNBwEMaq-NYNh1tRc.%26dt%3D1778085731973
-.netflix.com	TRUE	/	TRUE	1785326787	gsid	f1882808-5f54-4bd9-af76-600854ac0ca7
+.netflix.com	TRUE	/	TRUE	1785941163	gsid	f1882808-5f54-4bd9-af76-600854ac0ca7
 .netflix.com	TRUE	/	FALSE	1785861729	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1785861729	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1785861729	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
-.netflix.com	TRUE	/	FALSE	1785326787	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1785941163	profilesNewSession	0

@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: tavin1140@gmail.com
+– Verified: false
+– Profile: tavin1140
+– Plan: Standard with ads
+– Next billing: 15 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 4317)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1810487368	OptanonAlertBoxClosed	2026-05-16T17:09:28.449Z
+.netflix.com	TRUE	/	TRUE	1810487421	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA41vHM6MhX32ngQfCtipnbUaGSbnozPC_J0BxSwmx-kABlwnu--0KzfXChD7Pd1rWRXyhQV8TdLXLwKCkuIbcJNLjyKH3sNUKDI84AzSpOSVbl-QLwrnZss5R2vL5gjr0YgA7I3-UlhKiz_525xv8UgBOrmCWR9PxlCM9o_VAmz0JBm45eSG4DhH3eIgoHvEAFtAMgxGjqo4W2pB21ZdvWAj_MriDAp-4dzMVIptHEnLVGFzjLZCTl4ypLSPgxFmYJtxmqbpAR1fQhBbLFvWh7TECYEQbso15w1MyKjV0aDYKAWJcviQtNIXGqJsnQsY7pIo_mbe-g7MoyG66gKSYtcmdVeIKjzsph8pv2EznOq_bkyfJLFgovTYpoOkiuttg8geW1Kr6Ua8Ve5j3SuKmET6pbOiol96wXVv_CQ0qfSrtMIfpI561dJOo1M8yuFEmzwQd8lWjSwQwZZj12did_5N6asaU2d49FztWU7UL9HP_I87DNUNE4nqSekwgKcrO9_HH3BHzDFCHLdpQSxEiDGjXqgRAmavyIw-rLsVt0dFSlEYBiIOCgwQ9CZ7P8kFK3-eIn8.%26pg%3DH7WPSV6GIBGLPMNUZ4WOQHDABM%26ch%3DAQEAEAABABRsnR7GSyaxcZ_Z6uT7UVzXixoR1kQjdv8.
+.netflix.com	TRUE	/	FALSE	1810487422	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+14%3A10%3A22+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=bb19dbaf-d4dd-419e-a1cc-72887a2b8b31&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778951368879&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/	TRUE	1810487421	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT1LSi8eGyj7ML-BYkwr_tZ5Bfz5CMUVfU.%26dt%3D1778951424113
+.netflix.com	TRUE	/	FALSE	1786727422	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786727422	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810487421	nfvdid	BQFmAAEBEClXYPYapDmgS3L8uX88D7NgScfI6si9ob8tLQecTE2wTJGyQ-VMHWMKz2o9aQl8lZp0UvXTWiTQ-W7O7d4NA7V1qREzBR5xjMXxpH11LwB0_I3r29vPI-b4xHzIZSJYS1LobQiRFAU4zGCxgR6MuB3t

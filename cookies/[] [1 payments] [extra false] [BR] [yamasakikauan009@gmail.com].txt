@@ -1,0 +1,18 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: yamasakikauan009@gmail.com
+– Verified: false
+– Profile: Kauan
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 3069)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1798428336	OptanonAlertBoxClosed	2025-12-28T03:25:36.983Z
+.netflix.com	TRUE	/	FALSE	1798428410	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+28+2025+00%3A26%3A50+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9cbd1b31-1f89-46bd-a77a-7d2190cccd5b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR
+.netflix.com	TRUE	/	TRUE	1798428408	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ_bqX8r_Qg9r6-JP_-73GxxlhYFMCe4Tw.%26dt%3D1766892416143
+.netflix.com	TRUE	/	TRUE	1798428408	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8Au32cpr1kUD0RHi_6QglctCQAIgKbM-tQnI-ZJll_vPx6h23m_4KuKBkZFtiQD5iAvpTJr2uNFEh9D869Ae_696_tG9plfbcLJJtbBcIK5CAs4Ey_5Thff71qqHvd3Xf1Rk0wBdANLC_A1Js4XqoapDlC8-jkDJIhyexS0UzVUuR0eq6D6YEwCnoHqnMjDrTEaghvb87_Mc10ZNH97mBAWnxa2JwA8nUw9YaG-6pDKbSJvOVTY4GXlun4jM-_6EQT5EZseNG_Z5DzWSwN1R0E7C3NhhW3zLADgzYhM1dKi8D4dUaV1WxBIQZy52Y9Mn-JX-XxsGkPwzWQuHgX0lUZbTYGzkSoJMiCMt3TI0sWyeHxgUrAjGkAopUKk-ex9s6s_UZ7ROm1vI7qetad68C5_GbpnDzpV8QsTCsQNzWK0t1Ka6nfTLJ7UJPHfZ09vNjyYw26RZg8H_7B5IuGV648NzFbL9o4HWqbOwIGJQ8gKuTmBUoYTZIN4IN3ED9GAYiDgoM6JyPCDwcvR7dfgTJ%26pg%3DUIZSIMRBGFCKHGUGIFOXRP45XY%26ch%3DAQEAEAABABQ0VX2_FgmsKmyHBc13R_SytLdR73uXdRA.
+.netflix.com	TRUE	/	FALSE	1798428405	nfvdid	BQFmAAEBEMEfvVijOwAIHP9HSFR76QpgqDzzIxTq0VKwqAwcxV43fGOgrfh1KuQuTR1fpDuaVMgJuXxIzcSMiCMrfnxp2YckyERQ7wZuLtl9hhWN03_8uxTbmor5HdSSvG1IIYJVSt7ye6N_eTrULMT0ZZ2M1SiE

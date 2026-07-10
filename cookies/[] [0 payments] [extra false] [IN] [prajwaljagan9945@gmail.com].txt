@@ -9,12 +9,12 @@ https://russia34.com
 – Extra members: false
 – Country: IN
 – Payments: 0
-– Cookies: russia34link.com
+– Cookies: @logslead
 
-.netflix.com	TRUE	/	TRUE	1786122883	gsid	8535aa3d-a8ae-49dc-bb6c-d5f57cc1be11
-.netflix.com	TRUE	/	TRUE	1786122883	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3Aho1wt6rcaFdKtRLKsOR7JW9GF4or7i_tOsZHU0K6M5RU7TG_7ynGsOKISaeH6ilDLoZ321gQEVrxmKOiLNwdxfUrMn_rb5IKribH3XABU0GsMI20skK_2c2pH90YesMnPUKa1hOtawOaIx9PkzY657qLehJR7eWrssCl-YsdJcSNJB8aXadiP3KQpnvES2NPUlFwyjiB87etiHxDNCJPn-eqmgvFsXMGUr8RVBvuI6T2EY8c53M_zdwEZlC6kFX9isPtvGGcLQ0tICrsQnKlbBOu80x1gLmx1jzuzDNta9LxYuB1a8hMhhpR7bXcKxfyCILcDMGjFIyEMXgwnEVm33GSve-9w_jltTnLDGszdvWuWO3Vq2cw4Wmm6fejsCxzzd6vWOIgXhUdn-T5GepoaY8HkTJAgrg3duXxGWyOLUWcdWqt5mRioQLxFLofag2pA_YVA34CIbHznS4GyxGTJjXnlSIADQoQYBPbH7E8huVXFCCnYNzPhgGIg4KDKe8zDOfTg_EBslBDg..%26ch%3DAQEAEAABABRpgzLHEyC8YGaEUcBQFGxuVd40lQXjFig.
-.netflix.com	TRUE	/	TRUE	1786122883	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRRjGVJFUn3Lnj04ZA4oBABI0hQqlcDVAk.%26dt%3D1745417142812
-.netflix.com	TRUE	/	FALSE	1786122883	nfvdid	BQFmAAEBEKyrxuR0PiydIFsYD7yUiARgp6tePouPui4eZ4O9MEEx2mOcBor6nPL3XBI-UWA7q0F5UfjctetsuTQf8ZFFuz11QKeh3yv9RTglC2V6F8sNOaXaLTjXwpG9XqP4WWwH2SzdK5lixQyUrIw_h6s--0Pj
-.netflix.com	TRUE	/	FALSE	1786122883	flwssn	e9c578e7-669b-4d4e-84d4-9b5cfba18e02
-.netflix.com	TRUE	/	FALSE	1786122883	profilesNewSession	0
-.netflix.com	TRUE	/	FALSE	1786122883	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+23+2025+20%3A29%3A53+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=905aba75-cd33-4e9e-a4d0-8410eb48d7ac&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1785941163	gsid	8535aa3d-a8ae-49dc-bb6c-d5f57cc1be11
+.netflix.com	TRUE	/	FALSE	1785941163	nfvdid	BQFmAAEBEKyrxuR0PiydIFsYD7yUiARgp6tePouPui4eZ4O9MEEx2mOcBor6nPL3XBI-UWA7q0F5UfjctetsuTQf8ZFFuz11QKeh3yv9RTglC2V6F8sNOaXaLTjXwpG9XqP4WWwH2SzdK5lixQyUrIw_h6s--0Pj
+.netflix.com	TRUE	/	TRUE	1785941163	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3Aho1wt6rcaFdKtRLKsOR7JW9GF4or7i_tOsZHU0K6M5RU7TG_7ynGsOKISaeH6ilDLoZ321gQEVrxmKOiLNwdxfUrMn_rb5IKribH3XABU0GsMI20skK_2c2pH90YesMnPUKa1hOtawOaIx9PkzY657qLehJR7eWrssCl-YsdJcSNJB8aXadiP3KQpnvES2NPUlFwyjiB87etiHxDNCJPn-eqmgvFsXMGUr8RVBvuI6T2EY8c53M_zdwEZlC6kFX9isPtvGGcLQ0tICrsQnKlbBOu80x1gLmx1jzuzDNta9LxYuB1a8hMhhpR7bXcKxfyCILcDMGjFIyEMXgwnEVm33GSve-9w_jltTnLDGszdvWuWO3Vq2cw4Wmm6fejsCxzzd6vWOIgXhUdn-T5GepoaY8HkTJAgrg3duXxGWyOLUWcdWqt5mRioQLxFLofag2pA_YVA34CIbHznS4GyxGTJjXnlSIADQoQYBPbH7E8huVXFCCnYNzPhgGIg4KDKe8zDOfTg_EBslBDg..%26ch%3DAQEAEAABABRpgzLHEyC8YGaEUcBQFGxuVd40lQXjFig.
+.netflix.com	TRUE	/	TRUE	1785941163	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRRjGVJFUn3Lnj04ZA4oBABI0hQqlcDVAk.%26dt%3D1745417142812
+.netflix.com	TRUE	/	FALSE	1785941163	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+23+2025+20%3A29%3A53+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=905aba75-cd33-4e9e-a4d0-8410eb48d7ac&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1785941163	flwssn	e9c578e7-669b-4d4e-84d4-9b5cfba18e02
+.netflix.com	TRUE	/	FALSE	1785941163	profilesNewSession	0

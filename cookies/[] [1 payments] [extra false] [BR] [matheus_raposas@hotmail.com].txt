@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: matheus_raposas@hotmail.com
+– Verified: false
+– Profile: Kal-El
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 5676)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1797790982	OptanonAlertBoxClosed	2025-12-20T18:23:02.930Z
+.netflix.com	TRUE	/	FALSE	1797791199	nfvdid	BQFmAAEBEKK46DGnIMk_qN2C67bkTzZgzsLqQgMtHwafMZY6djcxpgc3npYsNN_1IZi3ykjkTuyWztHB4bfQasEQktC41Ru3Kh5rYyo5hRg_IoW2-HOa3HveaYE0QAl4hukJWNwpRrxboX3aA8WfuwxlYbUTiuZj
+.netflix.com	TRUE	/	TRUE	1806777580	NetflixId	ct%3DBgjHlOvcAxL9Aw280xUcz4n21I4b6gRR6H6XPCq8JgmcyFVn0AIxifNaXN8addoqPPl6jih4EGOM_er6e32D_WDgHmDZJEB58ATc5hl6q8xt4fm8vCbm-frjZSEJQK9ZjILnC_pvgarCZcqiaIJmIbvJB5-rBYmN-O11pR5WfXt4sMRiXre0tO1GGkxgc4OXdCYhHmntllxksdrm8nE4_m3xTnxtOX0uRJwe6W9ksKT8EYfzKFCkhofMxcz6QaHKCeFfboIi3TQ8BAtWzbjNcAm6KKchM_b-7G_rqIPcpmcMwV_n_90HqGtW76bElUPNiVtMTfU4zOvDB1fm5VK-F4TNR1KYVoN46F6GX2Z9CRBsSJW02BLRBldFKv--o9AmaGnNxSELfQZb6l52enD53a-HziAt7Ns0SIEC7Ih9dZIYEuLyabrbWjndFdPQ16ZgDKWUXGzEZEb_irM-Z5ZCiD8UQ5k6cWKmuX7Ln2F3KlVcSMjsxBAPFMNvhS84psR71zHkXhL8G2o1JTvXQfOXo78NrqkcoTakUPHG8bvTNhyvqai9RAt9X377SjFQo9HSkCdMd6M9h2sCEghNQ954DYoZRxeefSnBJ5hGJ8IRLuhZ3gVjhF45AcnL7ximErd4Yga8nEyjdszAIn6aoLdENSQ3PAc7ZVRu6QjcZvBe5wNeRJQNhse6GAYiDgoMDzPJUJ-JN4ki0U8S%26ch%3DAQEAEAABABTIDyAgXbXrH_MeaMq2PgerdW6yJ89jKn8.%26v%3D3%26pg%3DOH4ZWFL6BND7ZBQNIENQZ3GXLA
+.netflix.com	TRUE	/	TRUE	1806777580	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRWbrZRG-lHgfwz2BTeiPKIQaIazR5swFA.%26dt%3D1775241579995
+.netflix.com	TRUE	/	FALSE	1806780698	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+16%3A31%3A38+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b096a5aa-1945-42c7-a889-9a317e91bfdd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1785941163	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785941163	netflix-sans-normal-3-loaded	true

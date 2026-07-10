@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: KR
 – Payments: 1 | NAVER_BILLED ( )
-– Cookies: @logslead
+– Cookies: Cloud WebSite russia34.com
 
 .netflix.com	TRUE	/	FALSE	1787737511	nfvdid	BQFmAAEBEN5p7rQ4gq9MWP5iAGKIoqpg9IBkaB9gNd6MSEAV6ohxu8guy1PACfwKCMBBHMg0NqYVfpmDLpLtKe0JSqi45JxJWeXmO5o5466Th_RtlOZEimMOAFPxx1v1mBZnfsdXFsTSBcq8bNCCwob_GhquvRrY
 .netflix.com	TRUE	/	FALSE	1802412097	OptanonAlertBoxClosed	2026-02-12T06:01:37.832Z

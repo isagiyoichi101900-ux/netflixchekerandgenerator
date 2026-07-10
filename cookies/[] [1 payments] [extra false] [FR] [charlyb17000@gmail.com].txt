@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: FR
 – Payments: 1 | CC (MASTERCARD 1360)
-– Cookies: russia34.com
+– Cookies: russia34link.com
 
 .netflix.com	TRUE	/	FALSE	1792680551	OptanonAlertBoxClosed	2025-10-22T14:49:11.820Z
 .netflix.com	TRUE	/	FALSE	1792680571	nfvdid	BQFmAAEBEO0UuZpOvS0QznlvDstoN-tgQncmleLw1E456TlD_d4nKAWy0np6gPyWZkKk-t1c-_nCFNlFCYP4XwvfxPaK4_JvWCNDYf-JrzCI-g8KGyY0RWGtq13xus4tKyHz8sCxy7bUvNhc5teQaYvvyLeOmoCG

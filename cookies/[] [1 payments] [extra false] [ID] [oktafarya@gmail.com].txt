@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: ID
 – Payments: 1 | MOBILE_WALLET (SHOPEEPAY ********1992)
-– Cookies: russia34link.com
+– Cookies: @logslead
 
 .netflix.com	TRUE	/	FALSE	1799725877	nfvdid	BQFmAAEBEJYrR4u5--JezCUpGXFaAxZgIaT10N3-lFkjMn1UavgWjNZM0Ygu8tuf7flOwXZoLMGvYFAceC9YLSt4FtMA3-mkD_ikcqUrrVB7yMpihuZHZttegtuMCZhPYyX-eZ8Z-qy3DJlIe4oQy0PDWhH0fivv
 .netflix.com	TRUE	/	TRUE	1799821262	NetflixId	ct%3DBgjHlOvcAxKfAxL1aNXlx8uZfwULPkSvY3LfbzvWsRcdmWUlzIV4YoQIopo3fTKZtxTkAa1RHMTbkl-Ewze4U-OCnmeCwNrkQ6i95yVx2NdGuL4QmjKuWpFVcrudt--r8XRJxQXDLrKs6wAhsre1WSxvVawm-7hH7vdLv0apPLkE0nO-732pwyawwC-oW4UZAHNGcu2MfNam5cjiMbphmz80uucLgfSTGfr2NenEEbBsUjxZ9z6mu5JReIxINpgymkzyxQWJiT47RKukh3-lktyRWAA1FN6Vh-2UAN_kNFPm-J6CLyk8CMoT7TQ2l5sqh9gzmDvPKZXkOB1SJZDtcFG3Zku5ganZL7eFLtwboJIzYTfNmgMCL_6P8yVDiudyyhZZcEasvjzp-4jd8Xmlhq8aBH5FeiODJKr8VvUi_VJ-St9JDfI2mpw2lgWzh_bDZ4wK7LoCKn3mJGz6s-5g5DWihEdRFxSZwqrKMaQhZZZdbWhDchtQg7KcD_6rZUm_RB9vAPm_y1ZQdWk-5JIk-259V9T2fMk6Yy1D1uVfKUHdb-kX2K2V8HIYBiIOCgy2dfKPSS-s4-S6oaY.%26ch%3DAQEAEAABABRxs6_Us2I76lQPZuYjAW1GLV2k8aMAI_8.%26v%3D3%26pg%3D4YLQPBG32BF33GNKWKYVCQUTOU

@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: TH
 – Payments: 0
-– Cookies: Admin @logslead
+– Cookies: russia34link.com
 
 .netflix.com	TRUE	/	FALSE	1785167648	_ga_4Y3WKF2MY1	GS2.1.s1750607586$o3$g0$t1750607648$j60$l0$h0
 .netflix.com	TRUE	/	FALSE	1785167676	_ga	GA1.1.1767534924.1743522852

@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: VN
 – Payments: 1 | CC (VISA 8371)
-– Cookies: russia34link.com
+– Cookies: russia34.com
 
 .netflix.com	TRUE	/	FALSE	1793188743	nfvdid	BQFmAAEBECWgC-sC00KvRmYiVNVEEdtgROib6mka87i0DK5X8pRSHYQxIxPvBjIExbQH5PA9XBhWC8jLahjjw3I7-3E1Nv50dX7xwB8jwAIyC2_8l6oRtgOjlJ0vXXsTN364We9Ki4WVub-58pBbycXOvU89gQcW
 .netflix.com	TRUE	/	TRUE	1809510612	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRsWiwqg0WLwav2Mmumtj8oxWCb0qGt7tQ.%26dt%3D1777974609859

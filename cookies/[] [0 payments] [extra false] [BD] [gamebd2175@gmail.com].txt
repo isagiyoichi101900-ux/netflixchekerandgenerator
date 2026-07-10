@@ -9,11 +9,9 @@ https://russia34.com
 – Extra members: false
 – Country: BD
 – Payments: 0
-– Cookies: russia34.com
+– Cookies: @logslead
 
 .netflix.com	TRUE	/	TRUE	1786387386	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA_46TW7QIxaCifUtL6MMa0Jn2GO9-NtDJJn7tFT0v4mZvdO_KsPJdkowGs_yRNJuf52m9PDG3ojMfCnsGavo3SPYa2WxNkwbP1kr8p5qEK1qhl8LNnhLTLesmNbH8mgs3zE_YY472gs5y-TYCr8sg3jE9evFpR2v_E4DxTvtcS0zCcuVU2GOKGVJrHlWHAgKEDVBKtR5SEaymTfnmyK976U0QvajY65NIE6qrm067bP8dd6HLJLQJFe8duaSL-feTG1LM1xR-p6Q_LvhkITDR8lHZ6qh8q1wcrELFl10jvWd_JLS-az1evFgMLgLpRHytmNo4OkdzuDLMu8nwI5TJWMNi4xuY0JbqJ_4xk5m8TPowi8_h3IYCZ6GCSw0RbfDkcKPrNYkky6Kxvvfv_n2ka7SYE5gknydbV241aNwBfprgk0OChwwSedgst4Lq7JVLBtwjgN2CGEHeiT_LsHub29W-7WuQM6vTgjfJh3gFA1CShcW_YikhdTiRvKY8u_bwhgGIg4KDKKRV2vKZ95D-Wa3Fg..%26pg%3DYKWZFV63F5DOLECA2QD3WBHL4I%26ch%3DAQEAEAABABRXD7V7eDLIkDADZyljaXgCKstF-LPzxiw.
 .netflix.com	TRUE	/	TRUE	1786387386	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSGRFgYnaPMQ7J6GmDancH8n8DDjiySUhs.%26dt%3D1754851385589
 .netflix.com	TRUE	/	FALSE	1786387386	nfvdid	BQFmAAEBELf798dLFkGO3iGRxRdwGH9g0OxvEgMj3uwbbmM7JgWKt3M_8aih21-SjrNKtMbnwp-0gYVrhelQi4sqy27_FkicRQhwgj6v_F-x8nD5a8pmTDYM77e7EMbTLMDOEloMYdwROENZFQXL-biyezQxbd-D
-.netflix.com	TRUE	/	FALSE	1786122883	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1786387432	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+11+2025+00%3A43%3A52+GMT%2B0600+(Bangladesh+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=72b6914c-e529-4925-8774-34e28c501d56&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
-.netflix.com	TRUE	/	FALSE	1786122883	netflix-sans-normal-3-loaded	true

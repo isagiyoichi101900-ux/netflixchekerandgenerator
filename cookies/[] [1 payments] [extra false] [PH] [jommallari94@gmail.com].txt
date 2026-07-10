@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: PH
 – Payments: 1 | MOBILE_WALLET (GCASH 63-9****19963)
-– Cookies: russia34.com
+– Cookies: Cloud WebSite russia34.com
 
 .netflix.com	TRUE	/	FALSE	1785366379	flwssn	0d078775-db66-41cc-9d35-159d32c4dfb2
 .netflix.com	TRUE	/	FALSE	1785366379	nfvdid	BQFmAAEBEMRFuXNq7vcF2kDW_VZyzolgJimmaunpNxr1dahzssNirMp5eYBAYKAghy9HebL7XDF8CeueFUMrTDsXt319oHg9gReRMbYtov7K0fYWDg78rOlkcCT1WCtXkmLJ-YnrHjuDL-M_JPVIkffBZTycYDta

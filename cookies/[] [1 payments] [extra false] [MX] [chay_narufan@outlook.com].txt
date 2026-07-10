@@ -9,7 +9,7 @@ https://russia34.com
 – Extra members: false
 – Country: MX
 – Payments: 1 | CC (MASTERCARD 3233)
-– Cookies: russia34.com
+– Cookies: @logslead
 
 .netflix.com	TRUE	/mx/title	TRUE	1800662603	dsca	true
 .netflix.com	TRUE	/us-es/title	TRUE	1800662849	dsca	true

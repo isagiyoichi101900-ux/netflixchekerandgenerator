@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: amandavitoriamendes123@gmail.com
+– Verified: false
+– Profile: Amanda
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 2668)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1785941163	firstLolomoAfterOnRamp	true
+.netflix.com	TRUE	/	FALSE	1798246744	OptanonAlertBoxClosed	2025-12-26T00:59:04.051Z
+.netflix.com	TRUE	/	TRUE	1785941163	gsid	dbd0ff71-5104-4506-b6f8-59a99e6c6408
+.netflix.com	TRUE	/	FALSE	1798246782	nfvdid	BQFmAAEBEFRzScTz9W0f5v-8mY6UUeVgZ-6oZX8eZ5_0KyZkLhXeEhGVFs11QfowQ9Zg2-a3Ibas2-zNObDlrkucAjj5RCcgyb1RwDOEhHOznSI4-RWuttevefciafEWAOFQUQc1DOnHidv0_NC0Yp4UwZ6JIA8Z
+.netflix.com	TRUE	/	TRUE	1798247065	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAyyOngxl0jjo5zSjgmvKXGbMTodPRkXX4TOXixWXlOjx-IY8NzMXakkCpD_Lb_oUO46L2Gg7oBJEIi2fqQu_RGMYOmMBUenho72UPlcfPnKytWYYrshZ341X-zm63R4e5DvJlfkarJuaxrpyhN2NBvTmVN6NrkgJXrpxfT_ORPvsWmZJp46uBUyHQ3KLz8U9HQHTNgmgH7N2Wg4BLOEf-daGds92O_M-LYD-uYVLTXa6BefJ9zbv8teyQ6YdxzdDaC4UBXttfqtbey50Oa_v-ZLEASexYf36_etkSbj-JnHGYk2UX-kTVXUKpwnUNhVGYJCSYQ6fFZirvvsu1fIF_Mu82oPGXAuClKAG2CNa3gZfjHnmv8VJU51aoBVu5ffrNqBwDt3aYXSU8i0wueBSpQopZY7h6n1BHeCFukJQAVD7R1Rq3YB-hXl9FxSo1WORTmgk3OgxF1b-eR4FgBF_Ow75CzBbY5VQozoMVxiaD2XzZq7pzGjjxnTkCoLxUowGUO9mCBpOhVS_QH11Uum5b5Hw3a6p0wTnCDUjhnTCGAYiDgoMPN3OkpubiSj0MmNZ%26pg%3D7QTD4WS4EVHKTOUATBED25DEFU%26ch%3DAQEAEAABABTcvIbMoqIWuY-yh6lj2zAKVH-Tle0L4uU.
+.netflix.com	TRUE	/	TRUE	1798247065	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR92xqSOFqRRXi50LyVpXeROhe3_Kad8og.%26dt%3D1766711065738
+.netflix.com	TRUE	/	FALSE	1798247106	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+25+2025+22%3A05%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=73da7033-267e-40f6-888d-0539a3929940&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR
+.netflix.com	TRUE	/	FALSE	1785941163	flwssn	22efd39c-6fb6-4ced-a4cd-6a26bb2e7e44
+.netflix.com	TRUE	/	FALSE	1785941163	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785941163	netflix-sans-normal-3-loaded	true

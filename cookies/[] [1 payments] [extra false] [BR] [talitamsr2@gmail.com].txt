@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: talitamsr2@gmail.com
+– Verified: false
+– Profile: TALITA
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 5038)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1797777030	OptanonAlertBoxClosed	2025-12-20T14:30:30.107Z
+.netflix.com	TRUE	/	FALSE	1797777071	nfvdid	BQFmAAEBEHSfwdzwsjUcR-e7DAXz-sZgHZElL2Q-XMkyZLGymZ-qTo0jjwISpEVfBJMq0IYxV2dfgwM7l0FNccZ__4ujecHW1TC9pVvbdBY4Mz4YsbTsPpvpPlhFv22QU9ZqDlcFp3zZ2VnYffzx1uP1XI9JJBDJ
+.netflix.com	TRUE	/	TRUE	1799968128	NetflixId	ct%3DBgjHlOvcAxKeA55tO5fKKBFUt2d7Pfg25jRnKRC-eY2XRiwgi9PrHatx6eZD0Er5iW0oxwIZon7a1esL4iEtPgaCFwj5MoNhzBf9sdqebuc9HBPjO1wzcRFfLSF717-xyvRiK2X8E8tc3JbmWFaj0ZtkyKYLRq_XjG34jeCwEzFzriCNdw7AiL-gdWBMzneIVvMt0556Qv96JsBj9TrT9vNTbiye8p4f8FGICnB-5U6ixgdONY62AMyJ6cRR8hJUpUaZQqJG0_d-NEpZt8kSsEnnYGbtxLNWZ08TjY0iPnow6o8a13oNGFWuByi22QSCvsSjX9zsdA0v6M04ehU6D8OHw7kLGPg6rZ0zkfTJXAc7WEznflX4USJUFa4Q8JQld_UNVQz1uIu9H-QLAHA_2Uq3D-CVr3jMLHpO47aRuse5keqK9pUCeAh_iHcTThI4u-TkL4GDk8WrCNVVHUHzTAJo4IxZ88OzDJ6mAAZf6ds6tdNu_ApgxT2uuyo_WmpwKq9YWhOl247qIJ_UDWWQHf2DiIdm-XbRhQZKloJ-hf6cGKyG3WFx4RgGIg4KDM-NpiCjzAqKOQHuUA..%26ch%3DAQEAEAABABQUp0srB5I78iBFVcYelAQWDy_2UuRPmaU.%26v%3D3%26pg%3DVM3UHRZPOJBNLJTXKFIZAW3KTQ
+.netflix.com	TRUE	/	FALSE	1799968130	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+20%3A08%3A50+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7fe1ddc2-838b-4eb3-9438-7f7756a0e4b7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799968128	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUitEmbu3Oo6LxN3bxncJxDWQp1EctucY.%26dt%3D1768432119420
+.netflix.com	TRUE	/	TRUE	1785941163	gsid	f3d3ee97-fe3b-4394-81a3-1d99bb365051
+.netflix.com	TRUE	/	FALSE	1785941163	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785941163	netflix-sans-normal-3-loaded	true

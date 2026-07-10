@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: rogeriocorreia.b@hotmail.com
+– Verified: false
+– Profile: Guilherme
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1785941163	OptanonAlertBoxClosed	2025-06-28T00:30:45.990Z
+.netflix.com	TRUE	/	FALSE	1785941163	nfvdid	BQFmAAEBEOswapIxrsDPrSelGbWiWipg5vTsAPWWksB1ZqsuiN4soQWeGUvM4PL2TGDOpHwKhNncwvhCCZj1xzISwZguXMHd_iypiAhA4zBOo6yGIN8W2MaEoMdMpN3EWKuc9tTSUFmcHgX4uTnuQJx2nAG7gHBC
+.netflix.com	TRUE	/	TRUE	1811721738	NetflixId	ct%3DBgjHlOvcAxKHBPxHXkiFQEAJ5_HO0NzKTappNt1qCImoEy9_NkHYZ6nF9ioplvnNYwv2MTXXnLwtkGD4WJSXE2vJ_O8_27oj1MkLUFqG1PjhsGCAoW8CVhgHyO-NSxI4IgcBJrDtmwaOOqk-fQ7y4Ndu9WqmVxt9gE8E1Z4mG64PeEthh6xwMPH4Q-ekdD9KbxTgoadgyHxzmzT7Cqv3Rq_tfN7qHQx-nAybhaVBJ6Y1RVTyPFghxWPn14dssRyo1cG05ZoG3R4aUj5HHVwanemxK1aMrlWAl9ULf28GMF4g8MRG2-RAE4azjcJ5YFhD7rF-u9rmO3zgdGkFNRuQDFqQuue0Glfn9QP2jWW9sD-unu1yn6xB-aNqm7v11llIPneLJvPakW16sWU492HncLELt_5mJa_2jWZ-m3HCciaXRRLDMouC06Ca-PT0dHrHHyv79JVAO2uGlNIjmkYHZuM30_9kSTCYb9Enuyu2XgTZv79CrjJvSXYF_3vYbrryf4MQ-hQ2j11lzPqhahnwqhfR6eUZzVfY27FqDgn48annBSEDb1Cx1Bqjp7VY-Sa1aHe5IkQ1kvrJ-q0TIHg-qZ1HY9SHb_yrm1uGumgOP6mAvSJpTCCMnN9GH0SR4nNAlFxJvAgFEoF_RuHfVbzygxbmYOJrtZo2ZFskfp8XT0Oqvh6tQmbJEcyGY68GVSP_eRgGIg4KDGS7V5j-nh3dxyXYcg..%26ch%3DAQEAEAABABRgaM-WeTJlYLqxzwgK8SFFBR70cjd9tGk.%26v%3D3%26pg%3DJ3OON4KITFEQNDWR7Z23SHQ6QQ
+.netflix.com	TRUE	/	FALSE	1787961959	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1787961959	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787961959	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1811721959	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+21%3A05%3A59+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8abcec08-861f-43bf-95d3-cb445ba393c9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0

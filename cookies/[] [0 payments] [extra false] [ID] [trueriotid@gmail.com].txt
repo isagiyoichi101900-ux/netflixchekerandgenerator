@@ -9,11 +9,11 @@ https://russia34.com
 – Extra members: false
 – Country: ID
 – Payments: 0
-– Cookies: @logslead
+– Cookies: russia34.com
 
 .netflix.com	TRUE	/	TRUE	1794803817	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAAyUxRGYwC_8k_gLiOJA70D3FuRZZwOkOBNVqyAfs9XMYKAyw5DqinZbDT7MLYKJ_VKA_1PaSFdijY9dHcHOblir4LaS8cFBCq498gJvWFZ-z1LT5f08RCgDK5NqQuDzcBLMPAT4GzYlAqJKJUYZWeXrQAlbI5h-xVaLuXuHH2_Ok6gGHrQtS1QQ295s4nEL21GZfQmxSXXMpl1ny6c2disGkBRR7JX9AUW3RpNfCiBrQ1YzYD-64WkmZywaHMo3Osa7RS8Ju6Bm5QnNCP1nb9pXJZaPIpqiIwTGA9ttGQ1jNRCMTl8x1oRPLLymYj3nfJlWmdBCHJSPtJiI5DuPtevQqkBJ891dvXxDcYuNhBmp3pX4rhocXWuohcBWLq_IeO7PUH46nkQute_tShWvVt_jpw3gwfdFuZ2-lqXIkHWcqs8e7r6qbWE_AqBYv5tcQB_MHfBe5g-bHD-GBTVanWI8g9RHPtzcW_m8vUjxSRyRo_jHRtfqKy7fAjCUUSjG-uhgGIg4KDCflBpGAjvCMeeylVg..%26pg%3DUTQNKEUUMFGJRAU2ZP4XJ7JMLI%26ch%3DAQEAEAABABT3QxrURHYVM8wfp5fRFZFZshXiBgtg3wE.
 .netflix.com	TRUE	/	FALSE	1794803817	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+16+2025+11%3A36%3A57+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=92887603-4e20-4717-a20d-32a0c349e9b5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1794803817	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUBeCsi7fg96RuVIBMglMq4p2j_TuupT4.%26dt%3D1763267816576
-.netflix.com	TRUE	/	FALSE	1786122883	netflix-sans-bold-3-loaded	true
-.netflix.com	TRUE	/	FALSE	1786122883	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785941163	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785941163	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1794803817	nfvdid	BQFmAAEBEFOB5byEBAbzAiIvVLk6wIZg9bO4czXdw490oXr3CacP4zkfkdw6TKT0dXRdx6WyUnNHkEYHYhHKs8x65D0iy3YcnHjkvSjPTyHN39Xpgy9R2JgAYa_WtqOiq0gpyHr9kOXsdfLrV-hr0xgZdW0hqIhm
