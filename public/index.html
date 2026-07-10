@@ -61,54 +61,10 @@
             <span id="progressText" class="text-gray-400 font-medium">Processing 0 of 0</span>
         </div>
 
-        <div class="flex gap-3 mb-6 bg-black/30 p-4 rounded-2xl">
-            <div class="flex-1">
-                <label class="text-xs text-gray-400 block mb-1">STATUS</label>
-                <select id="statusFilter" onchange="filterResults()" class="w-full bg-[#0f172a] border border-slate-600 rounded-xl p-3 text-white">
-                    <option value="all">ALL</option>
-                    <option value="alive">ALIVE</option>
-                    <option value="dead">DEAD</option>
-                    <option value="error">ERROR</option>
-                </select>
-            </div>
-            <div class="flex-1">
-                <label class="text-xs text-gray-400 block mb-1">PLAN</label>
-                <select id="planFilter" onchange="filterResults()" class="w-full bg-[#0f172a] border border-slate-600 rounded-xl p-3 text-white">
-                    <option value="all">ALL</option>
-                    <option value="premium">Premium</option>
-                    <option value="standard">Standard</option>
-                </select>
-            </div>
-            <div class="flex-1">
-                <label class="text-xs text-gray-400 block mb-1">COUNTRY</label>
-                <select id="countryFilter" onchange="filterResults()" class="w-full bg-[#0f172a] border border-slate-600 rounded-xl p-3 text-white">
-                    <option value="all">ALL COUNTRIES</option>
-                    <option value="ph">Philippines (PH)</option>
-                    <option value="us">United States (US)</option>
-                    <option value="ca">Canada (CA)</option>
-                    <option value="gb">United Kingdom (GB)</option>
-                    <option value="au">Australia (AU)</option>
-                    <option value="de">Germany (DE)</option>
-                    <option value="fr">France (FR)</option>
-                    <option value="it">Italy (IT)</option>
-                    <option value="es">Spain (ES)</option>
-                    <option value="br">Brazil (BR)</option>
-                    <option value="mx">Mexico (MX)</option>
-                    <option value="ar">Argentina (AR)</option>
-                    <option value="jp">Japan (JP)</option>
-                    <option value="kr">South Korea (KR)</option>
-                    <option value="in">India (IN)</option>
-                    <option value="sg">Singapore (SG)</option>
-                    <option value="my">Malaysia (MY)</option>
-                    <option value="th">Thailand (TH)</option>
-                    <option value="id">Indonesia (ID)</option>
-                    <option value="vn">Vietnam (VN)</option>
-                </select>
-            </div>
-        </div>
-
         <div class="flex gap-2 mb-6">
-            <button onclick="filterResults('all')" class="px-6 py-2 bg-blue-600 rounded-xl font-medium">Reset Filters</button>
+            <button onclick="filterResults('all')" class="px-6 py-2 bg-blue-600 rounded-xl font-medium">All</button>
+            <button onclick="filterResults('alive')" class="px-6 py-2 bg-emerald-600 rounded-xl font-medium">Alive Only</button>
+            <button onclick="filterResults('dead')" class="px-6 py-2 bg-red-600 rounded-xl font-medium">Dead Only</button>
         </div>
 
         <div id="resultsList" class="space-y-4 max-h-[620px] overflow-y-auto pr-2"></div>
@@ -123,70 +79,17 @@
             alert("Please paste cookies first.");
             return;
         }
-        const cookies = cookiesText.split('\n').filter(line => line.trim() !== '');
-        if (cookies.length === 0) return alert("No valid cookies.");
-
-        const resultsCard = document.getElementById('resultsCard');
-        const resultsList = document.getElementById('resultsList');
-        resultsCard.classList.remove('hidden');
-        resultsList.innerHTML = '';
-
-        for (let cookie of cookies) {
-            try {
-                const response = await fetch('/api/check', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ cookie: cookie })
-                });
-                const data = await response.json();
-
-                if (data.status === 'SUCCESS') {
-                    let resultHtml = `
-                    <div class="result-card glass rounded-2xl p-6" data-type="alive" data-plan="${(data.x_tier || '').toLowerCase()}" data-country="${(data.x_loc || '').toLowerCase()}">
-                        <div class="flex items-center gap-3 mb-4">
-                            <span class="bg-emerald-500/20 text-emerald-400 px-4 py-1 rounded-full text-sm font-medium">SUCCESS</span>
-                            <span class="text-xl font-semibold">${data.x_mail || 'N/A'}</span>
-                        </div>
-                        <div class="grid grid-cols-2 gap-4 text-sm">
-                            <div><strong>Plan:</strong> ${data.x_tier || 'Unknown'}</div>
-                            <div><strong>Country:</strong> ${data.x_loc || 'N/A'}</div>
-                            <div><strong>Renewal:</strong> ${data.x_ren || 'N/A'}</div>
-                            <div><strong>Since:</strong> ${data.x_mem || 'N/A'}</div>
-                            <div><strong>Payment:</strong> ${data.x_bil || 'N/A'}</div>
-                            <div><strong>Phone:</strong> ${data.x_tel || 'N/A'}</div>
-                            <div class="col-span-2"><strong>Profiles:</strong> ${data.x_usr || 'N/A'}</div>
-                        </div>
-                        <div class="flex gap-3 mt-6">
-                            <a href="${data.x_l1 || '#'}" target="_blank" class="flex-1 bg-zinc-800 hover:bg-zinc-700 py-3 rounded-xl text-center">🖥️ PC</a>
-                            <a href="${data.x_l2 || '#'}" target="_blank" class="flex-1 bg-zinc-800 hover:bg-zinc-700 py-3 rounded-xl text-center">📱 Mobile</a>
-                            <a href="${data.x_l3 || '#'}" target="_blank" class="flex-1 bg-zinc-800 hover:bg-zinc-700 py-3 rounded-xl text-center">📺 TV</a>
-                        </div>
-                    </div>`;
-                    resultsList.innerHTML += resultHtml;
-                } else {
-                    let resultHtml = `
-                    <div class="glass rounded-2xl p-5 border border-red-500/30" data-type="dead">
-                        <span class="text-red-400 text-sm">DEAD</span>
-                        <span class="text-gray-400 text-xs ml-2">${data.message || 'Invalid Cookie'}</span>
-                    </div>`;
-                    resultsList.innerHTML += resultHtml;
-                }
-            } catch (e) {
-                let resultHtml = `
-                <div class="glass rounded-2xl p-6 text-red-400" data-type="dead">Connection Error</div>`;
-                resultsList.innerHTML += resultHtml;
-            }
-        }
+        alert("Manual paste checking is limited in Vercel version for now.");
     }
 
     async function generateRandomLiveAccount() {
         const resultsCard = document.getElementById('resultsCard');
         const resultsList = document.getElementById('resultsList');
-        const progressText = document.getElementById('progressText');
+        const progressText = document.getElementById('progressText') || { textContent: '' };
 
         resultsCard.classList.remove('hidden');
         resultsList.innerHTML = '';
-        progressText.textContent = 'Checking random live account...';
+        progressText.textContent = 'Checking random live account from server...';
 
         try {
             const response = await fetch('/api/check', {
@@ -198,7 +101,7 @@
 
             if (data.status === 'SUCCESS') {
                 const resultHtml = `
-                <div class="result-card glass rounded-2xl p-6" data-type="alive" data-plan="${(data.x_tier || '').toLowerCase()}" data-country="${(data.x_loc || '').toLowerCase()}">
+                <div class="result-card glass rounded-2xl p-6" data-type="alive">
                     <div class="flex items-center gap-3 mb-4">
                         <span class="bg-emerald-500/20 text-emerald-400 px-4 py-1 rounded-full text-sm font-medium">RANDOM LIVE</span>
                         <span class="text-xl font-semibold">${data.x_mail || 'N/A'}</span>
@@ -224,31 +127,21 @@
                 progressText.textContent = 'No live account found.';
             }
         } catch (e) {
-            progressText.textContent = 'Error occurred.';
+            progressText.textContent = 'Error occurred. Check if cookies folder has files.';
+            console.error(e);
         }
     }
 
-    function filterResults() {
-        const status = document.getElementById('statusFilter').value;
-        const plan = document.getElementById('planFilter').value;
-        const country = document.getElementById('countryFilter').value;
-
+    function filterResults(type) {
         const items = document.querySelectorAll('#resultsList > div');
         items.forEach(item => {
-            const itemType = item.getAttribute('data-type');
-            const itemPlan = item.getAttribute('data-plan') || '';
-            const itemCountry = item.getAttribute('data-country') || '';
-
-            let show = true;
-
-            if (status !== 'all') {
-                if (status === 'alive' && itemType !== 'alive') show = false;
-                if (status === 'dead' && itemType !== 'dead') show = false;
+            if (type === 'all') {
+                item.style.display = 'block';
+            } else if (type === 'alive') {
+                item.style.display = item.getAttribute('data-type') === 'alive' ? 'block' : 'none';
+            } else if (type === 'dead') {
+                item.style.display = item.getAttribute('data-type') === 'dead' ? 'block' : 'none';
             }
-            if (plan !== 'all' && !itemPlan.toLowerCase().includes(plan)) show = false;
-            if (country !== 'all' && !itemCountry.toLowerCase().includes(country)) show = false;
-
-            item.style.display = show ? 'block' : 'none';
         });
     }
 </script>
