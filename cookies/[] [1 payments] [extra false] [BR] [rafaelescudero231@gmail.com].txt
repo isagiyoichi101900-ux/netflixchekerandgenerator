@@ -1,0 +1,18 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: rafaelescudero231@gmail.com
+– Verified: false
+– Profile: Rafael
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 5265)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1786122883	nfvdid	BQFmAAEBEABinSXsxITP4IguC6LOk2BgwteqZigPUQxW8TPsQE8GZjiHWrv-bADEEz1C37aCBKEGzcb7bZbWfpp6c-mUlDB71yeibMVbNPH98RWPfyoEAbtocS9PYYZZ0yjbx01XvqedGsqp_wHXBlEXh1EJ8tCR
+.netflix.com	TRUE	/	TRUE	1792254784	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTY7ArjZzUCmShCpJ6f7dlCGRv80Oo_aY.%26dt%3D1776702784633
+.netflix.com	TRUE	/	TRUE	1792254784	NetflixId	ct%3DBgjHlOvcAxKCBKskkp734QeLsblHKzziu6iX9jKsZ4lUponxfwcn2qKI1fqYPO76mThyywIhCKufmrWFUoLvOLduVMBdMeounTegZ6HsbHvLH1I-Dnz_BMwdwdLMTy8pHWEdFoOko0FlgOt68U4g-M5R-rDELUtHCNGqW_Zac9na7mcSP9Dyw7nNTo6PHKiGXKHzVT3zhgZO50mLyH6-oplOdAepSk9xaKoyhu95iBlbVBAxj9_au6JDaMWjtT2KzfVLhqd5PPXoX3DrBfr5HbAwtKp7gcqVFFdUtVwawH4VeCaSMVW0C1fgIl8OoCpTYkAu2N5bPfP4LKBEkq85WMsKhPgOUbubbfNzHQGNc_6FtVBDmMzztS4INPlN_PW2NvKa_9lIiFVDNjQ3WZvBXZRGrsNyvacAp9UVkWvI1I-d_7jlMRPy9nLjjBulVEvio4P7eUiSrLLzBHdlTw6U5J1HS-LyLJYhbUEii9Kdrq1EUhh6u0ZXSuTJ9AnpGderEswHbgZzTyE4r2w2lSQApaA6eoLjHMilZGzA_cXPCPToIkcJF1UQ7RU-J_KLWxIT4hTsnq283KfKZ1xuIlzIzmCDAUGCYXvedQD7cKAOgaqe7_h6dZ9xVRMZTjMeycNnwvdOlBUGh8DLlxf0DtDF6mUxUeMe2rFqGYmujH0t3S0aIt8kOpRpZdljcPEYBiIOCgx5_Xg_gGKdt8VRKvw.%26ch%3DAQEAEAABABTD47d1kF83kXE9Nbiq4_UJS3_JU9NX0dI.%26v%3D3%26pg%3DR3PFDCXGJBEWNIKBI3Y4HD4AUE
+.netflix.com	TRUE	/	FALSE	1784478784	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784478784	netflix-sans-normal-3-loaded	true

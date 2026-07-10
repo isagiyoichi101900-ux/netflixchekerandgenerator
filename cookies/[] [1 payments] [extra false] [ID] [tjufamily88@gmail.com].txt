@@ -1,0 +1,17 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: tjufamily88@gmail.com
+– Verified: false
+– Profile: Ancella
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (SHOPEEPAY *********1135)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1786122883	nfvdid	BQFmAAEBEGfGrr3N-IYBgzhfzwxonHRg5N55lgBCZ7OMOZQh2boMYsLBbK-plEWyzuVMz-xsquTHtxMQJagHHoImymafz6i5wL3Ya6vaM3nFxA2RYZuW0XE0_iSy0Np8CdXgKrz8UqBhxy8gF4tToNc6K8cye_5m
+.netflix.com	TRUE	/	FALSE	1786122883	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+10+2025+13%3A20%3A13+GMT%2B0700+(Waktu+Indochina)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9a59d04f-1696-42a1-9ba9-87d08f508da6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799334149	NetflixId	ct%3DBgjHlOvcAxLkA7WeO5_a2UEDiEc9JPGGRxTTaiNe_C_eN3PnvxUfmXQ_DtMadGyf5rCZqjfgO6oavAywvWnGaMM5AHeNDHjHfJZKBJLUs440WnsCm6oHLRCNI7LTIlnYLuCWtOuXi8OmSu0Gja54V_4sG-BX6cSCa4Ue8aa1ScJNldvIo6Yfr3Jc6kFM2lhZicp5ChhUFWBOvdtYFhUeWeOx4dQtO-MB9KbWVV7CXgEZhB0y9hcP9ZzQpr3F54t2nkl73O5qObsADzqnRl6f9T_tcsDGD5SGWBhkFkMFXZn2Mw1mb9uNeKmmFjquo4xNdmpTNbi6Mwr646bqUZ4Y4HwCTgXpNp1nkUCNdelxQ-0jx_XYJ77DYQgCWo-73LQTIVuk_HPKaEKoEAZ9lgweY_xn5XBs2y4BIlxsxySMjbT034Ieh0qWHLH669UwkROUnM411cer8eDJMoFQNDI0ehKpoiCCNhknqG3ru80kurgFKzt03ushdZ6Grpv02Rv_f_rgdfrxBjfpOy53ai9gK4ejGhhpEm8a95gW08sK2GK4-TA8Ou5yFBpxlo5Vunzcwvs6klqwZtsBi5YFOr6VEMU-7DqJ1GsLmpy_6s3iTRDSI8UOSvIWudKiw9KAApre6qUidAngXpYGzE4JxhMYBiIOCgzQrs31hVVJ6KNaJwM.%26ch%3DAQEAEAABABTBL14Ofbx-JIwKctgU7EAzJ6HwG4WFT5k.%26v%3D3%26pg%3DBECR45IYGBFXDDZNCZ3XRC72XM
+.netflix.com	TRUE	/	TRUE	1799334149	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ6Ho3Gwz_zlGcJ5L6-c9GuA96cRtI8BiU.%26dt%3D1767798145159

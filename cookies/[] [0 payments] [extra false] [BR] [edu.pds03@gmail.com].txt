@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: edu.pds03@gmail.com
+– Verified: false
+– Profile: edu.pds03
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1795620212	OptanonAlertBoxClosed	2025-11-25T15:23:32.121Z
+.netflix.com	TRUE	/	TRUE	1814131706	gsid	674380e1-7b3c-41d0-9d6d-b30a4ebd7bb0
+.netflix.com	TRUE	/	TRUE	1795620277	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AmMQ46vhcOSrsf81_pJEifto9xtDYdJgQsQDTbqjcQ1U31ZMUcrDVB1jHgfSD1TRGoRSZrTf0aEK-UXhKcRVIO62fWDDea6-Pwl9n3Ra5t1pYVj6iF9bSew4sTtj0OKC7GhDzP1u5WlsUciBgVL9Evu7TOaQvsWHaAUK3DuBfBjj5PJCymbqCPaj2si79LX_cUAdryh465xzPkSGN5Kxe3V3Ju1e5SxYj1geNq1U4YwaK4lBMty9QtktFm3SnVpZONMPZlZNTXEalkDcSpDXL3Q7IhwQmslo0FcZ31un_cYV3L8qJvN5j6CZUgsu_1GeVZmvGYHMjWa764ZhTiuayhWkrHiAjcd3fYLx-2Fuva3NdnR01emgHVDKMBvJk-2tm8kvWUFK6mOFscpRFLmlj6l-OHirJqhKDu5QIZUpoMJkzkzUhCktYsuApWaWho-hBluk7sY_NZaKyGdE0dkut0uxxrukvzFKVFI3Qzo8mxhkYRvUZBTjcszHjQFNS5g4GAYiDgoMx6Y5ZqYzpwE-MMoJ%26pg%3DTFGDKKZKOZGMROOGFSYONJ5UNI%26ch%3DAQEAEAABABR9meiBeBhheZ9NW6Oqvzw4FvOc9FMAi8c.
+.netflix.com	TRUE	/	FALSE	1795620279	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+25+2025+12%3A24%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5f9c2575-c782-44b3-8c6a-642a95790682&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795620277	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRkdvhFEBGVhp9srvdu5PRSPGzlmrG7zZc.%26dt%3D1764084276939
+.netflix.com	TRUE	/	FALSE	1814131706	flwssn	f1476b36-001f-4f98-add5-7f452cd5c08f
+.netflix.com	TRUE	/	FALSE	1814131706	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1814131706	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1795620277	nfvdid	BQFmAAEBEKwD825sK1OLjlQhxrrVxDJg1YcC7L373sKAgeC-ePVyamV3-CufsuZhuv6ohk6TvsW9BQPpQVJRXhlMwPEcCfzSg7Ls3z6cYp6Jws-2qFVtnEuOojb7NO4yhk40TVNgDWopIQBTAXk3vo9SjSWH2dLt

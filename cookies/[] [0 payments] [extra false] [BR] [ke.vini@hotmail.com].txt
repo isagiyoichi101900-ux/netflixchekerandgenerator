@@ -1,0 +1,26 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: ke.vini@hotmail.com
+– Verified: false
+– Profile: ke.vini
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1800831759	OptanonAlertBoxClosed	2026-01-24T23:02:39.033Z
+.netflix.com	TRUE	/	TRUE	1803855804	dsca	true
+.netflix.com	TRUE	/	FALSE	1800831803	nfvdid	BQFmAAEBEAlZ_wTXJa3ipUDVT70v-T9gGZ7v6q5Oa3wWBAO7YTvN09-vevBBBum6jTgcYtO7WHK_SajPm1XHxJTHzBoRZ-bJsqu72qElc-5-Jar_oA-FAF18snL9w34g4PlD6dvRGQQpL_6zNfInt4ywIhHKy8qa
+.netflix.com	TRUE	/br/title	TRUE	1811185390	dsca	true
+.netflix.com	TRUE	/	FALSE	1785718224	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785718224	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785718224	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1809554610	NetflixId	ct%3DBgjHlOvcAxLLA41yHODTg-i58JJIeWPoLswg3aFxj0WKEckXs07xaJ77-oh-6goDkW3m0r0qK8hAO15I9dB6_VIIZBxMs-PSIWcAuzSzW7IuVXqE4G2YiHJMjasFzZfEwDNVsjLziP5sQrYip5t3RGuLQh7ebF2OJM_KYVB_HXAxTWwgwLpqG3Sxt9LF19u8OMOI_0gVZMNF34KCSrNE2YQ3hKvoGx3-tZ0XzbVIPc6X3lKFqW2JCmm0T1dlgj0rq9edbBBU25prNeEYzNa50QjhitUBWCmY1mAsxXCPvQsnIYfs1dfFuBQ2Lv85DCDiJUhS3hTGX2JtQ90eA7RQZw_SevqC9r31_aeV7tQjTUPk3eV1YZbupVKMEYPqefDIYFijddbDSO8kVZ9YNyBckXGUs5Fu3WzNbLNAunSwMMrlxyF4E7Oq6wdLAL1hVZgqnH_VxlhQQKelISUw33f8J9nSaWiDp_EvsMRS1xzIN7KhRhefos1F1UYGy9PuAgFekB4Y7VGVt5mWHkE7F9mdEtl214s8E_ogvjosI6hNsez9oDslaeZUkQNCMSZpLwSjRix57OsjYqZJ8f0Gz2lWf3SYDbwtpINdV-idz2WWo8oU9c34gRgGIg4KDJqWB4QUi597xVI8TA..%26ch%3DAQEAEAABABT1v1W-B5c8WzmMepdtex-cbZzoHltOKyc.%26v%3D3%26pg%3D537TW4G3IBDIRHCMMGQFPHPIZU
+.netflix.com	TRUE	/	TRUE	1809554610	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJ73fYxAlqPmezggiKGom2uTf2stGYj64.%26dt%3D1778018610666
+.netflix.com	TRUE	/	FALSE	1809554611	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+19%3A03%3A31+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=570291ae-a576-419a-aa13-84c180a6e845&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769295759702&AwaitingReconsent=false&intType=3&geolocation=BR%3BMA&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/pt/title	TRUE	1812578605	dsca	true
+.netflix.com	TRUE	/title	TRUE	1812578607	dsca	true
+.netflix.com	TRUE	/	TRUE	1812626533	nap	BgiuuOvcAxJJvqk-HFSJ5JmGSQbM8WGLD-RZ9-4ZdGLeX3wDd87Dj9tmzudxrKX8E29HCEiChAnuHGDt9KRCJ_eV_nm3tH3RYtedC70NS2c4rxgGIg4KDPVjPjxE5WWxpSHPzQ..

@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: geruivah@gmail.com
+– Verified: false
+– Profile: Eduzinn
+– Plan: Standard with ads
+– Next billing: 18 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 1807)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1811195223	OptanonAlertBoxClosed	2026-05-24T21:47:03.006Z
+.netflix.com	TRUE	/	FALSE	1811195276	nfvdid	BQFmAAEBENjIFmo0KGl8ceZnuGeP5Adg-bbxC6SF401a7YZuYC8rus0NRz-dlwpcdWM0SN81F4U0J2EnDZZxhynNBLgUVnVp5AmQVgrn7qu2RRX-KJNFFUYoV99Anz6J8ZwFOfho2kpsTSiGBpIWiVmJY703kqrO
+.netflix.com	TRUE	/	TRUE	1813948922	NetflixId	ct%3DBgjHlOvcAxKxAyETEZvxPheCQCvxjJgoQjQR4qugqGkGhQ9avlqO1PbBk8PNuuQzWNmnbgV_ABuC7U1DrdxqaaH1EFVI5zButmpNRorHRTwheB3OMG9Ni37jTMw35ie8fk-x8pgNGw348D4RG9x9MHZy_Wqb7iFoWbaWYH8OK6XgUwIE-6DWQpnj3bUU39WzeUOrC_HeMks1e9cH5v56O6VzMnd3HJ4FCEVI97exlcTIgWB2LIV80PWd4PSILk8XneTTNRvedoVyZF7e-cJJwziYQ2vTWaIn8wxTV9eOQvKIfF1O7XwH7VMXFlUtwE5LpzUcm56FXBA_B2HVY6wZ51JKo149sHp4DyruJ1uhR5Fn6zkAovgnR_MIdKPddepfqa5kUGFwP9wAsEccJr4E85dEubia4_zKXKectLcm0K2MBBkShEQX-jQ2datK7FQLb-7dss4qptHoh_V52Zjt-eLe8oUR5WWIx2ehgW0rOY1yHyzNTS_8x6oe3XWQ6LZiyqu37hMheE8YI9xOimH1crYJnNXALhRKHwL8G__WM4RaJYmT4hsro7Zs7nzWkKvqMizlCzmmKqHitK8YBiIOCgzs_fh1LHWTDFlJyJg.%26ch%3DAQEAEAABABSWyoU4z14Cri0AJro4i1wNpdG1wtuSSVU.%26v%3D3%26pg%3DPEWIYTN3UVFHXCVVII4NF6LLVQ
+.netflix.com	TRUE	/	FALSE	1813948920	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+25+2026+15%3A42%3A00+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a18d1b3c-9c62-4d8f-8c2b-08a4f46c3292&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779659223456&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BPR
+.netflix.com	TRUE	/	TRUE	1813948922	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT9cFPd6kkHbml4wHo3cXzZPTnoJleDhCw.%26dt%3D1782412932155
+.netflix.com	TRUE	/	FALSE	1814193804	flwssn	24ce1a9c-9dad-4dc5-9873-31d5ad951c08
+.netflix.com	TRUE	/	TRUE	1814193804	gsid	5d64fc8c-c649-4d43-9c8b-d45010461fa6
+.netflix.com	TRUE	/	FALSE	1790188919	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790188919	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790189002	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1814193804	profilesNewSession	0

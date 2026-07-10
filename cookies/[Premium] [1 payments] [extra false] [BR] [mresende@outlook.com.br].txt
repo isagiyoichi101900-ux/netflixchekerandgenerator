@@ -1,0 +1,17 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: mresende@outlook.com.br
+– Verified: false
+– Profile: Mateus
+– Plan: Premium
+– Next billing: July 24, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 3563)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1789332581	OptanonAlertBoxClosed	2025-09-13T20:49:41.199Z
+.netflix.com	TRUE	/	TRUE	1802978622	NetflixId	ct%3DBgjHlOvcAxLnA2pidiWCqBnVXJgrS16QkAGSeEe66BIK9nClyI9bsnROtvmWknCf8PUQNF3S_rUxFhUjfGlJ0eRPSLb9WSRn0_jpf4sp_ejyeWHAhVBQqvnXTsF7ydE6JalERuS6GNNgZwtg1kxLbTdprE6ddkSgw7TUrqeM13DvWyiB8vGOW3x1dGGsbHN4AYiqk8o4A0TUcv6su09wZnomxsP6JISGSPl5SmFoOrnKe9LMlR6_StTrG0RyQXjylRZU7xx-NaLxUFoZFUtk8eI1I9qMf7IdzJIOi5uRSn-NPeKG6yhZEVu0Ba594JOoPywXrWvOzm0AleikgMd8MzNBJB_UeTwc2XHq-7vE-7DOdunoRbbbUGZeCG5zNbFQfAs0JBR8j3ySH8j1LD5ayEfTzSXeblsbXkNiRS3z9u0MlqqdtzyYnVb5tBBjm2w8zNTeiYWOFtU1gDfLK7fa58223CYBaYrxX-EtBd9rWrOFWqgKFdz264k9BMPUt_1t-AxlX-jfqBGM6qfJiPKES71d7F0wa_1nNIj1r_V8YpFCaJLCkIq9xzweicuvr3lTNJ_fj66gLmNQtOVQD_UQHkpgJb5B2cnECJmbywjL0Qcu7CLbEDmztaNmwhviJiBJ67MI3Br5pDXHGn3w7Y_gp7UYBiIOCgyj608z2cA6OuwvULg.%26ch%3DAQEAEAABABSDPSAsCp29C8MEDtYiEBp3wtOpmQSs5n8.%26v%3D3%26pg%3DSI3IZXBKJNHENBU23P37FVFCRE
+.netflix.com	TRUE	/	FALSE	1802978623	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+18+2026+16%3A23%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a95b7bcc-f35a-4ce4-8409-4702ba2d363f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802978622	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcCecv9mXr_Y5mZOSQ3SCL20_H7Ig_m1w.%26dt%3D1771442622384

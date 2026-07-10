@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: ivanirduarte20@gmail.com
+– Verified: false
+– Profile: Evair
+– Plan: Standard with ads
+– Next billing: 30 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 0081)
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1806504351	OptanonAlertBoxClosed	2026-03-31T14:45:51.149Z
+.netflix.com	TRUE	/	FALSE	1806504375	nfvdid	BQFmAAEBEHk_fhQjHYIm83qCuK6tI_tgkiI6fMF3Td1TS0Yf2PEuW_EhIGpYph2AaDrilHTpMiwwONl7bgjYZZ-87d44Xz5LHXPJ85rpib6Xy7_uB5SeZVwC7PWVHJrlfMGbd82u8mRlqBqTGn9MjOinx7aNXfUw
+.netflix.com	TRUE	/	TRUE	1808091411	NetflixId	ct%3DBgjHlOvcAxKvAyZQuDPHrGyUjbcoRKJU70DjVkPvGTqTbU54Y_iChd5Q_JEuSxzs1rHpnKYgcL1SGzNFHMgdw0I_igmcDOWa-K0AaC_He8BsjwtTRKRdYvFAFhHAwA4DhgNrl5YIYY8XWVIuVucuNTtA7AnUsKR1GQyHBQ5t90FPyMnKTN4YQiNf1rFEiRJS6R84iL67MVhbsQisBx4GT_khtEFGcT9BzMHyfAwXLkAarfBll0AUdrgJiZLYtrCoqypdxPEoO_cskjorSH4IOUvkZDo07uo66hEvQDecCCQHGwvoaYRNbGw9KJ-fHkGIwvjOasY8eAr1Rm9BpGB_uCwCqElbwSZMndf0Zu9WQwsquHSj9M3nh8NN4pl5Mm9ZrDxn5-KUyzb1aMS6JhscQJFuyEMMNHCujTHqOJUWYB1y8sxAAO_OkKSOlkugHi5kN1VpafHJSr8-D4Zz3dVQl1934JIx2C72m6Wvq0oW_iPvtWr7Ep7foj_DbG0BUZtKUNFuJ1X8OMZGnfdbBSFSSJoGQboCCPd2-IZatKh_sy_Ll74MZkUAlh_g3Y415Qx0PVLoJAXX731uGAYiDgoM3Qa3z42uYY3BeeBB%26ch%3DAQEAEAABABSCO5O3swjHo_w1cLT0v-2TeuWnByvxNRE.%26v%3D3%26pg%3DJ5KGYEAMW5GD5AENCTQSKZJCVE
+.netflix.com	TRUE	/	FALSE	1808091413	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+20%3A36%3A53+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=443b1621-5a5e-40ba-a301-b6074f70b33d&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1774968284010&geolocation=BR%3BCE
+.netflix.com	TRUE	/	TRUE	1808091411	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQRTIjh-V3_dduinzZC8OiN9sUUBmyRcdI.%26dt%3D1776555411486
+.netflix.com	TRUE	/	FALSE	1784331412	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784331412	netflix-sans-normal-3-loaded	true

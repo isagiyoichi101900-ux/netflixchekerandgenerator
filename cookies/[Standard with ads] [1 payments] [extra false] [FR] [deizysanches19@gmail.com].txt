@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: deizysanches19@gmail.com
+– Verified: false
+– Profile: Gabi2
+– Plan: Standard with ads
+– Next billing: 30 de julho de 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | DCB (BOUYGUES 2802)
+– Cookies: Cloud WebSite russia34.com
+
+.netflix.com	TRUE	/	TRUE	1812999030	NetflixId	ct%3DBgjHlOvcAxKFBOj1GQUYEpXXy1fSMhuOYXuwUVt0LFRWYIk0NQx3VgpJhAk9J9DSiWbXveTkdZEWmG1WyecWXVnTg22_Vc0voykDXQdhgfoT_Zf-hZ8_MslTiRFpxOC2jo0TDpcbdvJuMJuWKwe0_CjlFtVlqtI3t2bIvf90dA457ENWUVpGGkfI1WKf8I2L4un4mFTrA3feC5_ZxPcSvtP-6Zow9-AXWicmBDVZ680bjbphvjZXO3dU7iM5um2EO4odtEZH7lNepQt9RMR9cseA9DkQDf31yud92vJKvUmkbblj_KsesWYQc3goY67dmgCwjiOAamr-8WSQ-EEdIsaXzmO6W5E2HBXLyH36OyDa4eAi-dbZQKjjVDoX7BFNX5wG-NTZaYMJiowd0l4wNs1KbIoadPM0MkJ5btxOrr-bTRpGewLVW3ukhKA3onQ3zh-a7Wl9RMd-p9t-tAzaxlWsytmY0gQztGVMR6WfrUTwzkYo6FYEmKHbvE7gQ1GI_goYd7rAYahdEyBgNNtssmqpiwmvdHgQwdyo94-0SyFTGSkCnxNJLN6k_Dews1W-HdKXvRGcTkyR6gREcdrQ2FqPfFlTXvkVwnB1GgmIGhvW9ERqshAjJlfTDJoJrudJ6mufQstIoYV40WwqrND58soV3gWya4XKWJhZuGAI_BcfsQpS7FrvdsWeWFqmjfwYBiIOCgyjXrW6SJCuA4UaJ-8.%26ch%3DAQEAEAABABTgc3x_mSKoJIwB7ZMKQHkJEHGzGtcCfW0.%26v%3D3%26pg%3DQUQO35EEDBDDHHVVU6MGSCWUKE
+.netflix.com	TRUE	/	TRUE	1812999030	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQocui45eQuo-FNEbyp_CPB87r7fDn0tSA.%26dt%3D1781463030027
+.netflix.com	TRUE	/	FALSE	1789239031	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789239031	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1812999032	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+20%3A50%3A32+GMT%2B0200+(Hora+de+ver%C3%A3o+da+Europa+Central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2bc6af83-1226-4ddf-9e2d-91e76038f53b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1787414457	OptanonAlertBoxClosed	2025-08-22T16:00:57.890Z
+.netflix.com	TRUE	/	FALSE	1787414464	nfvdid	BQFmAAEBELdtl1og3oHY14VVI1xULtdgjji8ldMzjkDREDOyD_rP287NUHA3J0UMqKfTSjG7kOMsExwW87TAOT-8cBASHK5a-qVhtoVM4EmdMruEWFHUkb4nBFMCYMutd8_fjvK9qmim7wpZ-aojbjvB3mzpFLZF
+.netflix.com	TRUE	/	FALSE	1805991767	dsca	customer

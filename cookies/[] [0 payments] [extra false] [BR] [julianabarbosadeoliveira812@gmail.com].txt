@@ -1,0 +1,23 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: julianabarbosadeoliveira812@gmail.com
+– Verified: false
+– Profile: Kaua
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1802832834	OptanonAlertBoxClosed	2026-02-17T02:53:54.997Z
+.netflix.com	TRUE	/	FALSE	1802832996	nfvdid	BQFmAAEBEDAApnC7s8cxdzuvFbneIlNg7lgtWs-ORQTrjgkGeOJmgdEVFqg72XLJwB_1qyxlaC62ANCPN04uWOUbbCJn61x00idPvxd0c8eX8UjaexIH4-HX8BVAr-udlMWm3G4yktTu-IOBM_EHArdNqw6Qmq-I
+.netflix.com	TRUE	/id-en/title	TRUE	1806298982	dsca	true
+.netflix.com	TRUE	/title	TRUE	1806298982	dsca	true
+.netflix.com	TRUE	/	FALSE	1807804257	dsca	customer
+.netflix.com	TRUE	/	TRUE	1805654615	NetflixId	ct%3DBgjHlOvcAxLmA2G6KEY_gFo3HA0_IEzFnnvn1rhogvHNfgNmMWoH25z87UGKx-3Edo91u37JL4MrJ4hCmlcXk6F1qblAltiXgtdkI9sHZQpx5wdROZSTjOqLbNmcCmvi8zIdpb0lWzAIaXxn7pXKS1ONK1PQg3kDkAZ1qORDS3C7V6ru2yQvTXLGQ8cmQlwsH4PKLtVcKzMpsEqYlVMs_BfSX17qvRvfxLBXfYDoOhCW4d67cctm_0WNJnibX4tGJjKqQr-llpsOmsdXrQy8rJQka5jJqzjEgmVm3bgKHHqHTANaxAlvBWdP2rV6cRxNqef9vOXHjxdYgTP4gSCLTYz5MlmuGOwnwn2k5oztbJWOGRUWiVZYs15ej6uo8rB44o6YBnY5VdBaPO7ytgdnDpkwh8JkN5FBOWIDQHKNUWRxV6Z3yxCWMjbndg_l5hxrQO-ZfZqR_Sl0QhiwfBZzu1B2IJuFA8R_Tpo4Rx8ywUxseKWuVSjqwZ-abExmSxBGGOkRQl4iRO1xIaoSRZnhaIBKyBQykSnTfjjawFVCnzZw4z8TJ6OdW8Pu0QKAhXIoKc94XzAPxHjvXKjRaXwDHSv64wPMIR6jsZ5Bhlo7egS74kq9qdPdLKgSB8YU9UVAZPzXnz4p04ey5fZHAKoAnBgGIg4KDIVwNHrQjx64A2P4ww..%26ch%3DAQEAEAABABT_n_DDXVfw2nR0-4jaZHGQC0jiEcUTjCo.%26v%3D3%26pg%3D55ZM6FT35JCVPFEYTV6DFH3VIM
+.netflix.com	TRUE	/	TRUE	1805654615	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTrhoyFhoDDh0phAjbmohWgmb7f3VsZ2yg.%26dt%3D1774118616999
+.netflix.com	TRUE	/	FALSE	1785326787	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1805654618	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+15%3A43%3A38+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c403e691-acee-48cf-a9c6-fc9876b244a6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771296835560&geolocation=BR%3BRS&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1785326787	netflix-sans-normal-3-loaded	true

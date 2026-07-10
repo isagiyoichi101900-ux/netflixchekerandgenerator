@@ -1,0 +1,24 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: opeskl.goo@gmail.com
+– Verified: false
+– Profile: Kleyton
+– Plan: Standard with ads
+– Next billing: 28 de julho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 4067)
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1811443969	OptanonAlertBoxClosed	2026-05-27T18:52:49.490Z
+.netflix.com	TRUE	/	FALSE	1811444001	nfvdid	BQFmAAEBEP0ZXnDpCbrIDdeXagZJLrtgg3y-NVr4yT42tGwFhXV2meUMan_qoCKDxqdhpvnhWTC8RLmq-i7wcc8iFSG6V8z8M8wYSC3ACAdFaQSg-jgNt40-S0x_0t9JARg5fZFSFTJ_RlS8OhNwq8ZlWwbbrfGS
+.netflix.com	TRUE	/	TRUE	1814293027	NetflixId	ct%3DBgjHlOvcAxKBBBpvWTl5mli-E9TmpSz5WigQmAh3DEhrZvuBwNq_fs3Z1d4DLJHohHaAjLTjBlZjeiq8NksANTJtqUa8c7hwoLP7qOt57b_I7rIbl2J4TInHBDSrKq3e7cNsLIgycYiAfUSXmY-jEFWqLGKcKIroU5z656-TiN7sBDMfCg11eprrHCczmdqyNbge1oheOap0m2ru2bbrmJKd7jfcQAIPJ9h1uN9AoJUnf0haxmKQ6PyxIKaPA3WIIqb1LIcp3zo4IC71u-qDd3JNNbafeASy4VcOOSB0MdnL2wzct2YO9MBsc2e-qx4zza3HneJQ-N4fyDWt_BY4bXEcx8sPoWbEYwFMUBeVGrMR0VApaLSJuhUp2mQTY65cAhRj8vJeVh_tNx8xpzwi6wuRGaorcFwmwR4k-7_R87YggvNuyBhTeAbvr5MvsL5ClUt6soAfqZqpYQntrcQLhetnyzK7_SIsRUtXVy_7zRMYy2YrZzi2NqDitrAajlI3SbF25kvnFbTZrrQw5A2DSlDKQ68sqp14muhCVtWGFkmrZ7YgzjC-L8v-hXgo0q2dqcRNDdu9PBgrY_nmbdyyKSw3sn1qecC1_WEquljkW6BhDLqt-0HCcMmGyHxpdlMs3F2GFW6aLWbwk7Pbqr7B9k9q9bTijKPdHjalpo_3tdy7SWJI3Yyn3WGt-BgGIg4KDAww1tQt9MFzKk6Dhw..%26ch%3DAQEAEAABABQdknsb-W3d15-PwKv13qquR-XAILziPFg.%26v%3D3%26pg%3D3MIMFU5OARHLJLVS36VV3Y3XWI
+.netflix.com	TRUE	/	FALSE	1814293028	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+29+2026+15%3A17%3A08+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8faf9170-e678-4ff2-97c9-7c8f67122b8f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1779907969859&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1814293027	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtpWzDLHGA68CCGG_wLwYsi_NFBjAVFNo.%26dt%3D1782757027309
+.netflix.com	TRUE	/	TRUE	1785979965	gsid	7a95683b-6a1f-4810-b414-c60e7a319f04
+.netflix.com	TRUE	/	FALSE	1790533027	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790533027	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1817317027	nap	BgiPu-vcAxJJk_yZg6X0SGlOZrSRVleUTIHez9qJUgrMmHrZGU1-8cS77vdZ-f5aVCTE0iuOnka7KJAlYHLWqmjfDoee59h-URImlRpnO3T7IxgGIg4KDKc6wTTP5NlDLh9iRg..
+.netflix.com	TRUE	/	FALSE	1790533027	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1785979965	profilesNewSession	0

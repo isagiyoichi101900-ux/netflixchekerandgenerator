@@ -1,0 +1,17 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: syahrulfitrahtahir@gmail.com
+– Verified: false
+– Profile: syahrul\x20fitrah
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (SHOPEEPAY *********0313)
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1784219762	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+17+2025+00%3A36%3A02+GMT%2B0800+(Waktu+Indonesia+Tengah)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2834ba1b-4ad1-4aec-831e-3aff55b2b0ab&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786204287	nfvdid	BQFmAAEBECsdeGuMMOsqCkiNflkN-w9gPtvVUBZzCwFzq69IczdsWpcRE0XX2CnS7FkoP9n5dpnafdwHytXW9O4L5Y4ZjGlp3MYsO28w_hZV2FSTznKjU2oKy8r5X0-a2Z2TsbgO7YYcjmRlssPbfHxvTcD4sn34
+.netflix.com	TRUE	/	TRUE	1784786038	NetflixId	ct%3DBgjHlOvcAxLvA_zJ0eEc3ZBuYiOAf2BGJe1b6C_EzvYQvQoOEbb6H5eURY4GdvLo608No6barpK0f1OdW4Z3zEIVe1LxiNT3nsqIx7OeGcNvQo-Nb4XnkSwb-EHQu4EUU_f3PcMWgj8LW0JHwIKxmDas6OU7rg_Lks8UCMe-7EQKE4pQUGzoMnAgZNhvwKsr4zd17et2FE1jHASmSDrERsvqB3byeERKxUY-e1fnBKUC4_ZjqWYtazAzfgcokz2jdmaNUYLAtNHjlwt4TmMLGOT8irFyperpcR2naQzFZvJLp2qe1idF5FFZieN_HgYKReIbipMr0s6u0b2iwbAArmMFlnactHjI6oFLvhzYDSeG-LI5FTqsR9wiZ4WnhCfJAA6tYZSdnzTtpQy11x4zkddfvthchaPXa6cWZCNNGLN0v2en0zfo8iNe-0GJJLMtL4pUsMCzEeXtja65fRBFvlM7spIRg-7RlLsn_fQhgQxlWSflScu5MDiuJf9zXrTaWPOBc7bSF-JbyDEULYG8H3FiqILhADLlNw1_B7s5NMBuMGle0OEmSDV9au1eQRg4-uqvcYtWM0iDHHQ2-u0sftnYzJD3HtYbyXidryZMoFvZ5pTGj-FB5zuCfQNqz_slc3qCJOw2iTr5T3CNHhL2ymmPwkYX9Dho6xgGIg4KDPEKIEdeziTw3VrVLg..%26ch%3DAQEAEAABABSAtJ6XrsQJEhEj3Jskco_hDupGV2gqL3w.%26v%3D3%26pg%3D2OIRS3F6C5DW5DQQCDB7T7JWTQ
+.netflix.com	TRUE	/	TRUE	1784786038	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTOnskSRAvfBo1ldn1_2XApgTo9yf-zbwo.%26dt%3D1753250038621

@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: gisa_aquino@yahoo.com.br
+– Verified: false
+– Profile: Iuri
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1793437172	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+31+2025+05%3A59%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=53ca7124-19a5-4dfa-a849-b52167708aee&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1796461170	dsca	customer
+.netflix.com	TRUE	/	FALSE	1786204287	flwssn	c4807784-4977-4f6b-92a2-285abb5b7cb9
+.netflix.com	TRUE	/	TRUE	1786204287	gsid	0da6ad38-2bd6-4c29-9023-93137c4c20f2
+.netflix.com	TRUE	/	FALSE	1786204287	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786204287	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793437170	nfvdid	BQFmAAEBEJwshRkW2BPHUYWGqTWv7flgHkL0HViS0wvOFyqfKIlv97UN7t-L71gWt3Xq-U-pBxXO8lpBqkyaXyx7BqFsYvIOcwO9Fp_44yBwp1M1IitqbkJ6HqCH7KzM2bMCgQirRNJ6vvO8aIIFZXHjVM3tkDiR
+.netflix.com	TRUE	/	TRUE	1793437174	NetflixId	ct%3DBgjHlOvcAxLlA91Mcr3ANCZrd7u-MJXROGwEpXK5e9qsJPUjct_h_LSb1uwMplMKB1vg9eq01HI6Bu5e9OVMYwsSm9OU5DK1ZH5VSkwh99yV3VJzWqoRdqcP0wnryEPHQJVNRaMAO21ETVfyzUjzrURSYdiCLJtOtGt92kkEJbtTk8OrQ8nNNV4zVlrWJ06aFdaHRsTZFDy3Swu3sQNgtbTBNK8lL66K_hI1_3k8pSCWef5UDUZAmSLfyGd_JVSomMEAL_DX3XeqyWmaas_Y4PJ4vCa6S-QH1nsT9v8vRam0BxBiaWw54QVFUnqDpQ991UDA-eBg7IQci1XylkrpFql4OyYk7fSnPRJqqjpHnJod9MLHfeWHPLd6ctus3hTY0CqpDBWOxnVnKplJQ_vJLCCuTVfXYvIZLNQhv0jgyZ5iu_1z6v2hR0XsrWS_vaxlU6MaOp4hij5EzRstzxxfJTpin1oSNqdbLuLPHEzhyBq7vl64QoehegWXFwg6OpPftzclPQ9GSUybgZdPdtmDbsJaCTvMrCX1IGj0XgxbL4w67lVI3EucP4jKQPaMgXGzBvcoJlXaA_nFtp7V2V5GuWh8JXLPKSYX9iddFAeScmLSN8_En0C-2lTSI8Qu6WVn-VGgpTY19c6pk_VZHANUGAYiDgoMAHq6gpEZMLXbH3d5%26ch%3DAQEAEAABABQT8nGsxqIDL_SGQ0QVCNkhtk1DY9a-Qho.%26v%3D3%26pg%3DUBNFGLKYXJEA3JC566YT3B67CU
+.netflix.com	TRUE	/	TRUE	1793437174	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSyk665XmAZWXs4cgXr_iHJsQP5sVeFFpo.%26dt%3D1761901174636
