@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFToken Mass Checker</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        body { background: linear-gradient(135deg, #0a0a0a, #1f2937); color: #e5e7eb; }
+        .glass { background: rgba(15, 23, 42, 0.85); backdrop-filter: blur(16px); border: 1px solid rgba(148, 163, 184, 0.2); }
+        .result-card { transition: all 0.3s ease; }
+        .result-card:hover { transform: translateY(-4px); }
+    </style>
+</head>
+<body class="py-8">
+<div class="max-w-4xl mx-auto px-4">
+    <div class="text-center mb-10">
+        <h1 class="text-4xl font-bold text-white flex items-center justify-center gap-3">
+            <i class="fas fa-satellite-dish text-blue-500"></i> NFToken Mass Checker
+        </h1>
+    </div>
+
+    <div class="glass rounded-3xl p-8 mb-8">
+        <h2 class="text-xl font-semibold mb-4">✍️ Or Paste Manually</h2>
+        <textarea id="bulkInput" rows="8" class="w-full rounded-2xl p-6 bg-[#0f172a] border border-slate-600 focus:border-blue-500 text-gray-200" placeholder="Paste cookies here..."></textarea>
+        <div class="flex gap-3 mt-8">
+            <button onclick="startApiTest()" id="startBtn" class="flex-1 bg-gradient-to-r from-emerald-500 to-teal-600 py-5 rounded-2xl font-bold text-xl">
+                🚀 START MASS CHECK
+            </button>
+            <button onclick="generateRandomLiveAccount()" class="flex-1 bg-gradient-to-r from-purple-500 to-violet-600 py-5 rounded-2xl font-bold text-xl">
+                🎲 Generate 1 Random Live Account
+            </button>
+        </div>
+    </div>
+
+    <div class="glass rounded-3xl p-8">
+        <h2 class="text-xl font-semibold mb-4">📁 Select Cookies Folder</h2>
+        <input type="file" id="folderInput" webkitdirectory directory multiple class="hidden">
+        <button onclick="document.getElementById('folderInput').click()" class="w-full bg-blue-600 hover:bg-blue-700 py-4 rounded-2xl font-semibold text-lg">
+            📂 SELECT FOLDER (.txt files)
+        </button>
+    </div>
+
+    <div id="resultsCard" class="glass rounded-3xl p-8 hidden">
+        <div class="flex justify-between items-center mb-6 bg-black/40 rounded-2xl p-5">
+            <div class="flex gap-8">
+                <div>
+                    <span class="text-xs text-gray-400">TOTAL</span>
+                    <span id="totalCount" class="block text-3xl font-bold">0</span>
+                </div>
+                <div>
+                    <span class="text-xs text-emerald-400">ALIVE</span>
+                    <span id="aliveCount" class="block text-3xl font-bold text-emerald-400">0</span>
+                </div>
+                <div>
+                    <span class="text-xs text-red-400">DEAD</span>
+                    <span id="deadCount" class="block text-3xl font-bold text-red-400">0</span>
+                </div>
+            </div>
+            <span id="progressText" class="text-gray-400 font-medium">Processing 0 of 0</span>
+        </div>
+
+        <div class="flex gap-3 mb-6 bg-black/30 p-4 rounded-2xl">
+            <div class="flex-1">
+                <label class="text-xs text-gray-400 block mb-1">STATUS</label>
+                <select id="statusFilter" onchange="filterResults()" class="w-full bg-[#0f172a] border border-slate-600 rounded-xl p-3 text-white">
+                    <option value="all">ALL</option>
+                    <option value="alive">ALIVE</option>
+                    <option value="dead">DEAD</option>
+                    <option value="error">ERROR</option>
+                </select>
+            </div>
+            <div class="flex-1">
+                <label class="text-xs text-gray-400 block mb-1">PLAN</label>
+                <select id="planFilter" onchange="filterResults()" class="w-full bg-[#0f172a] border border-slate-600 rounded-xl p-3 text-white">
+                    <option value="all">ALL</option>
+                    <option value="premium">Premium</option>
+                    <option value="standard">Standard</option>
+                </select>
+            </div>
+            <div class="flex-1">
+                <label class="text-xs text-gray-400 block mb-1">COUNTRY</label>
+                <select id="countryFilter" onchange="filterResults()" class="w-full bg-[#0f172a] border border-slate-600 rounded-xl p-3 text-white">
+                    <option value="all">ALL COUNTRIES</option>
+                    <option value="ph">Philippines (PH)</option>
+                    <option value="us">United States (US)</option>
+                    <option value="ca">Canada (CA)</option>
+                    <option value="gb">United Kingdom (GB)</option>
+                    <option value="au">Australia (AU)</option>
+                    <option value="de">Germany (DE)</option>
+                    <option value="fr">France (FR)</option>
+                    <option value="it">Italy (IT)</option>
+                    <option value="es">Spain (ES)</option>
+                    <option value="br">Brazil (BR)</option>
+                    <option value="mx">Mexico (MX)</option>
+                    <option value="ar">Argentina (AR)</option>
+                    <option value="jp">Japan (JP)</option>
+                    <option value="kr">South Korea (KR)</option>
+                    <option value="in">India (IN)</option>
+                    <option value="sg">Singapore (SG)</option>
+                    <option value="my">Malaysia (MY)</option>
+                    <option value="th">Thailand (TH)</option>
+                    <option value="id">Indonesia (ID)</option>
+                    <option value="vn">Vietnam (VN)</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="flex gap-2 mb-6">
+            <button onclick="filterResults('all')" class="px-6 py-2 bg-blue-600 rounded-xl font-medium">Reset Filters</button>
+        </div>
+
+        <div id="resultsList" class="space-y-4 max-h-[620px] overflow-y-auto pr-2"></div>
+    </div>
+</div>
+
+<script>
+    async function startApiTest() {
+        const textarea = document.getElementById('bulkInput');
+        const cookiesText = textarea.value.trim();
+        if (!cookiesText) {
+            alert("Please paste cookies first.");
+            return;
+        }
+        const cookies = cookiesText.split('\n').filter(line => line.trim() !== '');
+        if (cookies.length === 0) return alert("No valid cookies.");
+
+        const resultsCard = document.getElementById('resultsCard');
+        const resultsList = document.getElementById('resultsList');
+        resultsCard.classList.remove('hidden');
+        resultsList.innerHTML = '';
+
+        for (let cookie of cookies) {
+            try {
+                const response = await fetch('/api/check', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ cookie: cookie })
+                });
+                const data = await response.json();
+
+                if (data.status === 'SUCCESS') {
+                    let resultHtml = `
+                    <div class="result-card glass rounded-2xl p-6" data-type="alive" data-plan="${(data.x_tier || '').toLowerCase()}" data-country="${(data.x_loc || '').toLowerCase()}">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-emerald-500/20 text-emerald-400 px-4 py-1 rounded-full text-sm font-medium">SUCCESS</span>
+                            <span class="text-xl font-semibold">${data.x_mail || 'N/A'}</span>
+                        </div>
+                        <div class="grid grid-cols-2 gap-4 text-sm">
+                            <div><strong>Plan:</strong> ${data.x_tier || 'Unknown'}</div>
+                            <div><strong>Country:</strong> ${data.x_loc || 'N/A'}</div>
+                            <div><strong>Renewal:</strong> ${data.x_ren || 'N/A'}</div>
+                            <div><strong>Since:</strong> ${data.x_mem || 'N/A'}</div>
+                            <div><strong>Payment:</strong> ${data.x_bil || 'N/A'}</div>
+                            <div><strong>Phone:</strong> ${data.x_tel || 'N/A'}</div>
+                            <div class="col-span-2"><strong>Profiles:</strong> ${data.x_usr || 'N/A'}</div>
+                        </div>
+                        <div class="flex gap-3 mt-6">
+                            <a href="${data.x_l1 || '#'}" target="_blank" class="flex-1 bg-zinc-800 hover:bg-zinc-700 py-3 rounded-xl text-center">🖥️ PC</a>
+                            <a href="${data.x_l2 || '#'}" target="_blank" class="flex-1 bg-zinc-800 hover:bg-zinc-700 py-3 rounded-xl text-center">📱 Mobile</a>
+                            <a href="${data.x_l3 || '#'}" target="_blank" class="flex-1 bg-zinc-800 hover:bg-zinc-700 py-3 rounded-xl text-center">📺 TV</a>
+                        </div>
+                    </div>`;
+                    resultsList.innerHTML += resultHtml;
+                } else {
+                    let resultHtml = `
+                    <div class="glass rounded-2xl p-5 border border-red-500/30" data-type="dead">
+                        <span class="text-red-400 text-sm">DEAD</span>
+                        <span class="text-gray-400 text-xs ml-2">${data.message || 'Invalid Cookie'}</span>
+                    </div>`;
+                    resultsList.innerHTML += resultHtml;
+                }
+            } catch (e) {
+                let resultHtml = `
+                <div class="glass rounded-2xl p-6 text-red-400" data-type="dead">Connection Error</div>`;
+                resultsList.innerHTML += resultHtml;
+            }
+        }
+    }
+
+    async function generateRandomLiveAccount() {
+        const resultsCard = document.getElementById('resultsCard');
+        const resultsList = document.getElementById('resultsList');
+        const progressText = document.getElementById('progressText');
+
+        resultsCard.classList.remove('hidden');
+        resultsList.innerHTML = '';
+        progressText.textContent = 'Checking random live account...';
+
+        try {
+            const response = await fetch('/api/check', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ cookie: "sample" })
+            });
+            const data = await response.json();
+
+            if (data.status === 'SUCCESS') {
+                const resultHtml = `
+                <div class="result-card glass rounded-2xl p-6" data-type="alive" data-plan="${(data.x_tier || '').toLowerCase()}" data-country="${(data.x_loc || '').toLowerCase()}">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="bg-emerald-500/20 text-emerald-400 px-4 py-1 rounded-full text-sm font-medium">RANDOM LIVE</span>
+                        <span class="text-xl font-semibold">${data.x_mail || 'N/A'}</span>
+                    </div>
+                    <div class="grid grid-cols-2 gap-4 text-sm">
+                        <div><strong>Plan:</strong> ${data.x_tier || 'Unknown'}</div>
+                        <div><strong>Country:</strong> ${data.x_loc || 'N/A'}</div>
+                        <div><strong>Renewal:</strong> ${data.x_ren || 'N/A'}</div>
+                        <div><strong>Since:</strong> ${data.x_mem || 'N/A'}</div>
+                        <div><strong>Payment:</strong> ${data.x_bil || 'N/A'}</div>
+                        <div><strong>Phone:</strong> ${data.x_tel || 'N/A'}</div>
+                        <div class="col-span-2"><strong>Profiles:</strong> ${data.x_usr || 'N/A'}</div>
+                    </div>
+                    <div class="flex gap-3 mt-6">
+                        <a href="${data.x_l1 || '#'}" target="_blank" class="flex-1 bg-zinc-800 hover:bg-zinc-700 py-3 rounded-xl text-center">🖥️ PC</a>
+                        <a href="${data.x_l2 || '#'}" target="_blank" class="flex-1 bg-zinc-800 hover:bg-zinc-700 py-3 rounded-xl text-center">📱 Mobile</a>
+                        <a href="${data.x_l3 || '#'}" target="_blank" class="flex-1 bg-zinc-800 hover:bg-zinc-700 py-3 rounded-xl text-center">📺 TV</a>
+                    </div>
+                </div>`;
+                resultsList.innerHTML = resultHtml;
+                progressText.textContent = 'Found 1 live account!';
+            } else {
+                progressText.textContent = 'No live account found.';
+            }
+        } catch (e) {
+            progressText.textContent = 'Error occurred.';
+        }
+    }
+
+    function filterResults() {
+        const status = document.getElementById('statusFilter').value;
+        const plan = document.getElementById('planFilter').value;
+        const country = document.getElementById('countryFilter').value;
+
+        const items = document.querySelectorAll('#resultsList > div');
+        items.forEach(item => {
+            const itemType = item.getAttribute('data-type');
+            const itemPlan = item.getAttribute('data-plan') || '';
+            const itemCountry = item.getAttribute('data-country') || '';
+
+            let show = true;
+
+            if (status !== 'all') {
+                if (status === 'alive' && itemType !== 'alive') show = false;
+                if (status === 'dead' && itemType !== 'dead') show = false;
+            }
+            if (plan !== 'all' && !itemPlan.toLowerCase().includes(plan)) show = false;
+            if (country !== 'all' && !itemCountry.toLowerCase().includes(country)) show = false;
+
+            item.style.display = show ? 'block' : 'none';
+        });
+    }
+</script>
+</body>
+</html>
